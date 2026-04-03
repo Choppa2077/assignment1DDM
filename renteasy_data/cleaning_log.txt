@@ -1,0 +1,73 @@
+============================================================
+ASSIGNMENT 2 — DATA CLEANING LOG
+Date: 2026-04-03 20:38
+============================================================
+
+[LOAD] Rows: 7485, Columns: 16
+[LOAD] Columns: ['source', 'city', 'listing_id', 'title', 'rooms', 'area_m2', 'floor', 'total_floors', 'price_tenge', 'district', 'address', 'listing_date', 'seller_type', 'url', 'price_per_m2', 'id']
+
+--- STEP 1: DUPLICATES ---
+Full row duplicates: 0
+Duplicate (source, listing_id): 0
+Removed 0 duplicate rows → 7485 rows remain
+
+--- STEP 2: MISSING VALUES ---
+  rooms: 858 missing (11.5%)
+  area_m2: 1355 missing (18.1%)
+  floor: 1841 missing (24.6%)
+  total_floors: 1841 missing (24.6%)
+  price_per_m2: 1355 missing (18.1%)
+
+Dropped 0 rows with missing price_tenge → 7485 rows remain
+Dropped 0 rows with missing city → 7485 rows remain
+Filled 0 missing seller_type values with 'unknown'
+Filled 0 missing listing_date values with today's date
+
+--- STEP 3: OUTDATED LISTINGS ---
+No outdated listings found (all >= 2026-01-01)
+Date range: 2026-03-05 — 2026-04-03
+
+--- STEP 4: SPELLING & STANDARDIZATION ---
+Cities found: ['Астана', 'Алматы', 'Шымкент', 'Карагандa', 'Актобе']
+Seller type distribution: {'owner': 3805, 'unknown': 2400, 'agency': 1280}
+Source distribution: {'krisha': 6130, 'olx': 1355}
+
+--- STEP 5: OUTLIER REMOVAL (1.5×IQR) ---
+  price_tenge: Q1=150000, Q3=280000, IQR=130000 → range [-45000, 475000] → removed 556 outliers
+  area_m2: Q1=40, Q3=62, IQR=22 → range [7, 95] → removed 169 outliers
+  price_per_m2: Q1=3125, Q3=5385, IQR=2260 → range [-264, 8774] → removed 76 outliers
+
+After outlier removal: 6684 rows
+
+--- STEP 6: RECALCULATE DERIVED FIELDS ---
+Price segments: {'middle': 3858, 'high': 2154, 'low': 672}
+
+--- FINAL SUMMARY ---
+Original records:  7485
+Cleaned records:   6684
+Records removed:   801
+
+City distribution:
+  Алматы: 1965
+  Астана: 1830
+  Шымкент: 1009
+  Карагандa: 958
+  Актобе: 922
+
+Source distribution:
+  krisha: 5362
+  olx: 1322
+
+Missing values in final dataset:
+  rooms: 834 (12.5%)
+  area_m2: 1322 (19.8%)
+  floor: 1715 (25.7%)
+  total_floors: 1715 (25.7%)
+  price_per_m2: 1322 (19.8%)
+
+Numeric fields summary:
+  price_tenge: min=5000, max=475000, mean=207579, median=200000
+  area_m2: min=8, max=95, mean=51, median=48
+  price_per_m2: min=584, max=8750, mean=4311, median=4167
+
+[SAVED] Cleaned CSV → renteasy_data/renteasy_dataset_cleaned.csv (6684 rows)

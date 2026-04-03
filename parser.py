@@ -38,6 +38,80 @@ def parse_price(text):
     return int(digits) if digits else None
 
 
+def parse_olx_date(text):
+    """Convert OLX date like '01 апреля 2026 г.' or 'Сегодня в 12:44' to YYYY-MM-DD"""
+    if not text:
+        return None
+    text = text.strip()
+
+    if 'сегодня' in text.lower():
+        return datetime.now().strftime('%Y-%m-%d')
+    if 'вчера' in text.lower():
+        return (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
+
+    MONTH_MAP = {
+        'январ': 1, 'феврал': 2, 'март': 3, 'апрел': 4,
+        'мая': 5, 'май': 5, 'июн': 6, 'июл': 7, 'август': 8,
+        'сентябр': 9, 'октябр': 10, 'ноябр': 11, 'декабр': 12,
+    }
+    m = re.match(r'(\d+)\s+([а-яА-Я]+)\s+(\d{4})', text)
+    if m:
+        day = int(m.group(1))
+        month_str = m.group(2).lower()
+        year = int(m.group(3))
+        month = None
+        for key, val in MONTH_MAP.items():
+            if month_str.startswith(key):
+                month = val
+                break
+        if month:
+            try:
+                return datetime(year, month, day).strftime('%Y-%m-%d')
+            except ValueError:
+                pass
+    return None
+
+
+def parse_rooms_from_title(title):
+    """
+    Extract rooms from free-form title (OLX style).
+    Handles: '1 комнатная', 'однокомнатную', '3к', '1 ком.', 'студия'
+    """
+    if not title:
+        return None
+    t = title.lower()
+
+    # Word-based: однокомнатная, двухкомнатная, etc.
+    word_map = {
+        r'однокомнат': 1,
+        r'двухкомнат|2\s*-?\s*х?\s*комнат': 2,
+        r'тр[её]хкомнат|3\s*-?\s*х?\s*комнат': 3,
+        r'четыр[её]хкомнат|4\s*-?\s*х?\s*комнат': 4,
+        r'пятикомнат|5\s*-?\s*х?\s*комнат': 5,
+    }
+    for pattern, val in word_map.items():
+        if re.search(pattern, t):
+            return val
+
+    # Digit-based: "1 комнатная", "2-комнатная"
+    m = re.search(r'(\d+)\s*-?\s*комнат', t)
+    if m:
+        return int(m.group(1))
+
+    # Short forms: "3к", "1 ком."
+    m = re.search(r'(\d+)\s*к\b', t)
+    if m:
+        return int(m.group(1))
+    m = re.search(r'(\d+)\s*ком\.', t)
+    if m:
+        return int(m.group(1))
+
+    if re.search(r'студи', t):
+        return 0
+
+    return None
+
+
 def parse_rooms_area_floor(title):
     """
     Extract rooms, area, floor, total_floors from title like:
@@ -279,35 +353,58 @@ def parse_olx_page(soup, city_slug):
         item['city'] = city_name
         item['listing_id'] = card.get('id', '') or card.get('data-id', '')
 
-        # Title
-        title_el = (card.select_one('h6') or card.select_one('h3') or
-                    card.select_one('[data-cy="ad-card-title"]'))
-        title = title_el.get_text(strip=True) if title_el else ''
+        # Title — OLX renders title in img alt and in <a> links
+        img_el = card.select_one('img[alt]')
+        if img_el and img_el.get('alt', '').strip():
+            title = img_el['alt'].strip()
+        else:
+            # Fallback: second <a> tag usually has the title text
+            links = card.select('a[href]')
+            title = ''
+            for link in links:
+                text = link.get_text(strip=True)
+                if len(text) > 5:
+                    title = text
+                    break
         item['title'] = title
 
-        # Rooms and area from title
-        rooms, area, floor, total_floors = parse_rooms_area_floor(title)
-        item['rooms'] = rooms
-        item['area_m2'] = area
-        item['floor'] = floor
-        item['total_floors'] = total_floors
+        # Rooms from free-form OLX title; area/floor usually not available
+        item['rooms'] = parse_rooms_from_title(title)
+        item['area_m2'] = None
+        item['floor'] = None
+        item['total_floors'] = None
 
         # Price
         price_el = (card.select_one('[data-testid="ad-price"]') or
                     card.select_one('.price') or
                     card.select_one('[class*="price"]'))
-        item['price_tenge'] = parse_price(price_el.get_text(strip=True)) if price_el else None
+        if price_el:
+            price_text = price_el.get_text(strip=True)
+            item['price_tenge'] = parse_price(price_text)
+        else:
+            item['price_tenge'] = None
 
-        # Location
+        # Location — format: "Астана, Нура  - 01 апреля 2026 г."
         loc_el = (card.select_one('[data-testid="location-date"]') or
                   card.select_one('[class*="location"]'))
         loc_text = loc_el.get_text(strip=True) if loc_el else ''
-        parts = loc_text.split(',')
-        item['district'] = parts[0].strip() if parts else None
-        item['address'] = loc_text
+        # Split by " - " to separate location from date
+        loc_parts = loc_text.split(' - ')
+        location = loc_parts[0].strip() if loc_parts else ''
+        date_part = loc_parts[1].strip() if len(loc_parts) > 1 else ''
+
+        # District: "Астана, Есильский район" → district = "Есильский район"
+        addr_parts = location.split(',')
+        if len(addr_parts) >= 2:
+            item['district'] = addr_parts[1].strip()
+        else:
+            item['district'] = addr_parts[0].strip() if addr_parts else None
+        item['address'] = location
+
+        # Date from location string
+        item['listing_date'] = parse_olx_date(date_part) or datetime.now().strftime('%Y-%m-%d')
 
         item['seller_type'] = 'unknown'
-        item['listing_date'] = datetime.now().strftime('%Y-%m-%d')
 
         # URL
         link_el = card.select_one('a[href]')
@@ -334,11 +431,11 @@ def parse_olx(city_slug: str, max_pages: int = 20) -> list:
     If site is unavailable — calls sys.exit() with error message.
     """
     olx_city_map = {
-        'astana': 'nur-sultan',
-        'almaty': 'almaty',
+        'astana': 'astana',
+        'almaty': 'alm',
     }
     olx_city = olx_city_map.get(city_slug, city_slug)
-    base_url = f"https://www.olx.kz/nedvizhimost/arenda-kvartir/{olx_city}/"
+    base_url = f"https://www.olx.kz/nedvizhimost/arenda-kvartiry/{olx_city}/"
     all_listings = []
 
     print(f"  OLX.kz / {city_slug}: connecting...")
