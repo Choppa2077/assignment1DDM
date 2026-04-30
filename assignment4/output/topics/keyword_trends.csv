@@ -1,0 +1,151 @@
+year,keyword,count
+2015,computer science,5
+2015,artificial intelligence,0
+2015,business,5
+2015,real estate,0
+2015,machine learning,0
+2015,data science,2
+2015,artificial neural network,0
+2015,econometrics,0
+2015,economics,5
+2015,context (archaeology),1
+2015,sustainability,2
+2015,big data,0
+2015,random forest,0
+2015,geography,1
+2015,social media,0
+2016,computer science,10
+2016,artificial intelligence,3
+2016,business,6
+2016,real estate,3
+2016,machine learning,1
+2016,data science,3
+2016,artificial neural network,0
+2016,econometrics,1
+2016,economics,7
+2016,context (archaeology),3
+2016,sustainability,1
+2016,big data,2
+2016,random forest,0
+2016,geography,1
+2016,social media,1
+2017,computer science,18
+2017,artificial intelligence,2
+2017,business,15
+2017,real estate,5
+2017,machine learning,3
+2017,data science,5
+2017,artificial neural network,2
+2017,econometrics,2
+2017,economics,8
+2017,context (archaeology),1
+2017,sustainability,1
+2017,big data,2
+2017,random forest,1
+2017,geography,3
+2017,social media,2
+2018,computer science,42
+2018,artificial intelligence,11
+2018,business,16
+2018,real estate,6
+2018,machine learning,7
+2018,data science,8
+2018,artificial neural network,4
+2018,econometrics,9
+2018,economics,18
+2018,context (archaeology),3
+2018,sustainability,3
+2018,big data,4
+2018,random forest,5
+2018,geography,8
+2018,social media,1
+2019,computer science,62
+2019,artificial intelligence,24
+2019,business,27
+2019,real estate,7
+2019,machine learning,18
+2019,data science,12
+2019,artificial neural network,12
+2019,econometrics,14
+2019,economics,24
+2019,context (archaeology),2
+2019,sustainability,7
+2019,big data,5
+2019,random forest,7
+2019,geography,13
+2019,social media,1
+2020,computer science,116
+2020,artificial intelligence,47
+2020,business,39
+2020,real estate,18
+2020,machine learning,28
+2020,data science,15
+2020,artificial neural network,13
+2020,econometrics,19
+2020,economics,29
+2020,context (archaeology),12
+2020,sustainability,7
+2020,big data,8
+2020,random forest,11
+2020,geography,13
+2020,social media,6
+2021,computer science,107
+2021,artificial intelligence,48
+2021,business,46
+2021,real estate,13
+2021,machine learning,31
+2021,data science,14
+2021,artificial neural network,14
+2021,econometrics,22
+2021,economics,28
+2021,context (archaeology),10
+2021,sustainability,11
+2021,big data,13
+2021,random forest,9
+2021,geography,18
+2021,social media,6
+2022,computer science,138
+2022,artificial intelligence,58
+2022,business,41
+2022,real estate,14
+2022,machine learning,41
+2022,data science,31
+2022,artificial neural network,24
+2022,econometrics,22
+2022,economics,33
+2022,context (archaeology),12
+2022,sustainability,5
+2022,big data,9
+2022,random forest,5
+2022,geography,15
+2022,social media,6
+2023,computer science,185
+2023,artificial intelligence,94
+2023,business,53
+2023,real estate,15
+2023,machine learning,57
+2023,data science,33
+2023,artificial neural network,22
+2023,econometrics,30
+2023,economics,54
+2023,context (archaeology),17
+2023,sustainability,11
+2023,big data,17
+2023,random forest,18
+2023,geography,22
+2023,social media,10
+2024,computer science,125
+2024,artificial intelligence,59
+2024,business,41
+2024,real estate,11
+2024,machine learning,25
+2024,data science,27
+2024,artificial neural network,10
+2024,econometrics,24
+2024,economics,35
+2024,context (archaeology),4
+2024,sustainability,9
+2024,big data,7
+2024,random forest,2
+2024,geography,12
+2024,social media,7

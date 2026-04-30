@@ -1,0 +1,3484 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d0" for="node" attr.name="freq" attr.type="long"/>
+<graph edgedefault="undirected"><node id="house price">
+  <data key="d0">8</data>
+</node>
+<node id="standardization">
+  <data key="d0">5</data>
+</node>
+<node id="energy consumption">
+  <data key="d0">34</data>
+</node>
+<node id="fake news">
+  <data key="d0">5</data>
+</node>
+<node id="ensemble learning">
+  <data key="d0">7</data>
+</node>
+<node id="e-commerce">
+  <data key="d0">5</data>
+</node>
+<node id="energy (signal processing)">
+  <data key="d0">18</data>
+</node>
+<node id="merge (version control)">
+  <data key="d0">4</data>
+</node>
+<node id="variable (mathematics)">
+  <data key="d0">6</data>
+</node>
+<node id="traffic congestion">
+  <data key="d0">4</data>
+</node>
+<node id="interpretability">
+  <data key="d0">10</data>
+</node>
+<node id="scalability">
+  <data key="d0">10</data>
+</node>
+<node id="forecasting">
+  <data key="d0">140</data>
+</node>
+<node id="internet of things">
+  <data key="d0">8</data>
+</node>
+<node id="economic rent">
+  <data key="d0">4</data>
+</node>
+<node id="energy management">
+  <data key="d0">9</data>
+</node>
+<node id="smart city">
+  <data key="d0">23</data>
+</node>
+<node id="scale (ratio)">
+  <data key="d0">10</data>
+</node>
+<node id="gradient boosting">
+  <data key="d0">34</data>
+</node>
+<node id="latent dirichlet allocation">
+  <data key="d0">10</data>
+</node>
+<node id="computer security">
+  <data key="d0">14</data>
+</node>
+<node id="regression">
+  <data key="d0">128</data>
+</node>
+<node id="reputation">
+  <data key="d0">5</data>
+</node>
+<node id="transport engineering">
+  <data key="d0">9</data>
+</node>
+<node id="socioeconomic status">
+  <data key="d0">7</data>
+</node>
+<node id="text mining">
+  <data key="d0">14</data>
+</node>
+<node id="cluster analysis">
+  <data key="d0">6</data>
+</node>
+<node id="recurrent neural network">
+  <data key="d0">7</data>
+</node>
+<node id="real estate">
+  <data key="d0">104</data>
+</node>
+<node id="property valuation">
+  <data key="d0">8</data>
+</node>
+<node id="field (mathematics)">
+  <data key="d0">21</data>
+</node>
+<node id="stock (firearms)">
+  <data key="d0">13</data>
+</node>
+<node id="valuation (finance)">
+  <data key="d0">22</data>
+</node>
+<node id="data collection">
+  <data key="d0">18</data>
+</node>
+<node id="multivariate statistics">
+  <data key="d0">7</data>
+</node>
+<node id="pandemic">
+  <data key="d0">19</data>
+</node>
+<node id="sharing economy">
+  <data key="d0">13</data>
+</node>
+<node id="product (mathematics)">
+  <data key="d0">14</data>
+</node>
+<node id="asset (computer security)">
+  <data key="d0">8</data>
+</node>
+<node id="data mining">
+  <data key="d0">18</data>
+</node>
+<node id="predictive modelling">
+  <data key="d0">5</data>
+</node>
+<node id="property (philosophy)">
+  <data key="d0">12</data>
+</node>
+<node id="variety (cybernetics)">
+  <data key="d0">10</data>
+</node>
+<node id="resilience (materials science)">
+  <data key="d0">11</data>
+</node>
+<node id="theory of computation">
+  <data key="d0">4</data>
+</node>
+<node id="revenue">
+  <data key="d0">4</data>
+</node>
+<node id="health care">
+  <data key="d0">7</data>
+</node>
+<node id="random forest">
+  <data key="d0">79</data>
+</node>
+<node id="sustainability">
+  <data key="d0">44</data>
+</node>
+<node id="transformer">
+  <data key="d0">25</data>
+</node>
+<node id="quality (philosophy)">
+  <data key="d0">10</data>
+</node>
+<node id="usability">
+  <data key="d0">5</data>
+</node>
+<node id="climate change">
+  <data key="d0">18</data>
+</node>
+<node id="accommodation">
+  <data key="d0">7</data>
+</node>
+<node id="meteorology">
+  <data key="d0">4</data>
+</node>
+<node id="political science">
+  <data key="d0">20</data>
+</node>
+<node id="explanatory power">
+  <data key="d0">4</data>
+</node>
+<node id="hyperparameter">
+  <data key="d0">4</data>
+</node>
+<node id="sociology">
+  <data key="d0">16</data>
+</node>
+<node id="identification (biology)">
+  <data key="d0">7</data>
+</node>
+<node id="term (time)">
+  <data key="d0">10</data>
+</node>
+<node id="social media">
+  <data key="d0">35</data>
+</node>
+<node id="robustness (evolution)">
+  <data key="d0">6</data>
+</node>
+<node id="value (mathematics)">
+  <data key="d0">13</data>
+</node>
+<node id="environmental planning">
+  <data key="d0">12</data>
+</node>
+<node id="recommendation system">
+  <data key="d0">12</data>
+</node>
+<node id="supply chain">
+  <data key="d0">14</data>
+</node>
+<node id="geography">
+  <data key="d0">35</data>
+</node>
+<node id="engineering">
+  <data key="d0">21</data>
+</node>
+<node id="urbanization">
+  <data key="d0">12</data>
+</node>
+<node id="apartment">
+  <data key="d0">6</data>
+</node>
+<node id="similarity (geometry)">
+  <data key="d0">4</data>
+</node>
+<node id="cryptocurrency">
+  <data key="d0">6</data>
+</node>
+<node id="management science">
+  <data key="d0">6</data>
+</node>
+<node id="scope (computer science)">
+  <data key="d0">9</data>
+</node>
+<node id="computer vision">
+  <data key="d0">12</data>
+</node>
+<node id="investment (military)">
+  <data key="d0">10</data>
+</node>
+<node id="china">
+  <data key="d0">20</data>
+</node>
+<node id="task (project management)">
+  <data key="d0">10</data>
+</node>
+<node id="linguistics">
+  <data key="d0">5</data>
+</node>
+<node id="perspective (graphical)">
+  <data key="d0">14</data>
+</node>
+<node id="interoperability">
+  <data key="d0">9</data>
+</node>
+<node id="mean squared error">
+  <data key="d0">30</data>
+</node>
+<node id="xgboost">
+  <data key="d0">25</data>
+</node>
+<node id="rental market">
+  <data key="d0">9</data>
+</node>
+<node id="feature (linguistics)">
+  <data key="d0">6</data>
+</node>
+<node id="graph">
+  <data key="d0">4</data>
+</node>
+<node id="process (computing)">
+  <data key="d0">31</data>
+</node>
+<node id="anomaly detection">
+  <data key="d0">4</data>
+</node>
+<node id="metropolitan area">
+  <data key="d0">9</data>
+</node>
+<node id="telecommunications">
+  <data key="d0">7</data>
+</node>
+<node id="context (archaeology)">
+  <data key="d0">53</data>
+</node>
+<node id="service (business)">
+  <data key="d0">7</data>
+</node>
+<node id="domain (mathematical analysis)">
+  <data key="d0">4</data>
+</node>
+<node id="econometrics">
+  <data key="d0">60</data>
+</node>
+<node id="boosting (machine learning)">
+  <data key="d0">11</data>
+</node>
+<node id="time series">
+  <data key="d0">77</data>
+</node>
+<node id="benchmark (surveying)">
+  <data key="d0">11</data>
+</node>
+<node id="beijing">
+  <data key="d0">11</data>
+</node>
+<node id="architecture">
+  <data key="d0">5</data>
+</node>
+<node id="focus (optics)">
+  <data key="d0">4</data>
+</node>
+<node id="neighbourhood (mathematics)">
+  <data key="d0">5</data>
+</node>
+<node id="order (exchange)">
+  <data key="d0">16</data>
+</node>
+<node id="series (stratigraphy)">
+  <data key="d0">8</data>
+</node>
+<node id="predictive power">
+  <data key="d0">5</data>
+</node>
+<node id="shap">
+  <data key="d0">53</data>
+</node>
+<node id="business intelligence">
+  <data key="d0">6</data>
+</node>
+<node id="corporate governance">
+  <data key="d0">15</data>
+</node>
+<node id="architectural engineering">
+  <data key="d0">7</data>
+</node>
+<node id="food security">
+  <data key="d0">5</data>
+</node>
+<node id="price prediction">
+  <data key="d0">54</data>
+</node>
+<node id="coronavirus disease 2019 (covid-19)">
+  <data key="d0">22</data>
+</node>
+<node id="feature selection">
+  <data key="d0">11</data>
+</node>
+<node id="classification">
+  <data key="d0">55</data>
+</node>
+<node id="internet privacy">
+  <data key="d0">12</data>
+</node>
+<node id="hedonic pricing">
+  <data key="d0">10</data>
+</node>
+<node id="encoder">
+  <data key="d0">5</data>
+</node>
+<node id="mathematics">
+  <data key="d0">9</data>
+</node>
+<node id="reliability (semiconductor)">
+  <data key="d0">5</data>
+</node>
+<node id="the internet">
+  <data key="d0">11</data>
+</node>
+<node id="commodity">
+  <data key="d0">4</data>
+</node>
+<node id="outlier">
+  <data key="d0">5</data>
+</node>
+<node id="clustering">
+  <data key="d0">13</data>
+</node>
+<node id="environmental science">
+  <data key="d0">26</data>
+</node>
+<node id="nlp">
+  <data key="d0">35</data>
+</node>
+<node id="workflow">
+  <data key="d0">6</data>
+</node>
+<node id="risk management">
+  <data key="d0">6</data>
+</node>
+<node id="arima">
+  <data key="d0">35</data>
+</node>
+<node id="categorization">
+  <data key="d0">6</data>
+</node>
+<node id="leverage (statistics)">
+  <data key="d0">9</data>
+</node>
+<node id="process management">
+  <data key="d0">7</data>
+</node>
+<node id="neighbourhood">
+  <data key="d0">7</data>
+</node>
+<node id="remote sensing">
+  <data key="d0">5</data>
+</node>
+<node id="blockchain">
+  <data key="d0">24</data>
+</node>
+<node id="transparency (behavior)">
+  <data key="d0">10</data>
+</node>
+<node id="industrial organization">
+  <data key="d0">8</data>
+</node>
+<node id="efficient energy use">
+  <data key="d0">9</data>
+</node>
+<node id="naive bayes classifier">
+  <data key="d0">4</data>
+</node>
+<node id="regression analysis">
+  <data key="d0">17</data>
+</node>
+<node id="mean absolute percentage error">
+  <data key="d0">13</data>
+</node>
+<node id="power consumption">
+  <data key="d0">5</data>
+</node>
+<node id="bert">
+  <data key="d0">26</data>
+</node>
+<node id="robot">
+  <data key="d0">4</data>
+</node>
+<node id="consumption (sociology)">
+  <data key="d0">20</data>
+</node>
+<node id="natural language processing">
+  <data key="d0">16</data>
+</node>
+<node id="software deployment">
+  <data key="d0">14</data>
+</node>
+<node id="supply chain management">
+  <data key="d0">6</data>
+</node>
+<node id="lasso (programming language)">
+  <data key="d0">5</data>
+</node>
+<node id="analytics">
+  <data key="d0">19</data>
+</node>
+<node id="location">
+  <data key="d0">72</data>
+</node>
+<node id="personalization">
+  <data key="d0">7</data>
+</node>
+<node id="renting">
+  <data key="d0">30</data>
+</node>
+<node id="gis">
+  <data key="d0">45</data>
+</node>
+<node id="residual">
+  <data key="d0">5</data>
+</node>
+<node id="government (linguistics)">
+  <data key="d0">17</data>
+</node>
+<node id="ordinary least squares">
+  <data key="d0">9</data>
+</node>
+<node id="artificial intelligence">
+  <data key="d0">163</data>
+</node>
+<node id="profitability index">
+  <data key="d0">4</data>
+</node>
+<node id="smart grid">
+  <data key="d0">10</data>
+</node>
+<node id="machine learning">
+  <data key="d0">290</data>
+</node>
+<node id="exponential smoothing">
+  <data key="d0">7</data>
+</node>
+<node id="autoregressive model">
+  <data key="d0">9</data>
+</node>
+<node id="decision tree">
+  <data key="d0">8</data>
+</node>
+<node id="linear regression">
+  <data key="d0">7</data>
+</node>
+<node id="convolutional neural network">
+  <data key="d0">18</data>
+</node>
+<node id="recurrent neural">
+  <data key="d0">14</data>
+</node>
+<node id="stock market">
+  <data key="d0">12</data>
+</node>
+<node id="geospatial analysis">
+  <data key="d0">10</data>
+</node>
+<node id="perception">
+  <data key="d0">16</data>
+</node>
+<node id="generative grammar">
+  <data key="d0">5</data>
+</node>
+<node id="environmental economics">
+  <data key="d0">21</data>
+</node>
+<node id="flood myth">
+  <data key="d0">7</data>
+</node>
+<node id="visitor pattern">
+  <data key="d0">4</data>
+</node>
+<node id="population">
+  <data key="d0">16</data>
+</node>
+<node id="big data">
+  <data key="d0">42</data>
+</node>
+<node id="user experience">
+  <data key="d0">7</data>
+</node>
+<node id="greenhouse gas">
+  <data key="d0">16</data>
+</node>
+<node id="inflation (cosmology)">
+  <data key="d0">5</data>
+</node>
+<node id="building information modeling">
+  <data key="d0">13</data>
+</node>
+<node id="statistics">
+  <data key="d0">11</data>
+</node>
+<node id="embedding">
+  <data key="d0">6</data>
+</node>
+<node id="risk analysis (engineering)">
+  <data key="d0">9</data>
+</node>
+<node id="agriculture">
+  <data key="d0">14</data>
+</node>
+<node id="systematic review">
+  <data key="d0">5</data>
+</node>
+<node id="psychology">
+  <data key="d0">12</data>
+</node>
+<node id="recommender system">
+  <data key="d0">8</data>
+</node>
+<node id="knowledge management">
+  <data key="d0">13</data>
+</node>
+<node id="cloud computing">
+  <data key="d0">22</data>
+</node>
+<node id="world wide web">
+  <data key="d0">10</data>
+</node>
+<node id="virtual reality">
+  <data key="d0">4</data>
+</node>
+<node id="regional science">
+  <data key="d0">6</data>
+</node>
+<node id="housing market">
+  <data key="d0">11</data>
+</node>
+<node id="renewable energy">
+  <data key="d0">16</data>
+</node>
+<node id="lstm">
+  <data key="d0">70</data>
+</node>
+<node id="pedestrian">
+  <data key="d0">5</data>
+</node>
+<node id="exploit">
+  <data key="d0">4</data>
+</node>
+<node id="public transport">
+  <data key="d0">5</data>
+</node>
+<node id="autoregressive integrated moving average">
+  <data key="d0">30</data>
+</node>
+<node id="index (typography)">
+  <data key="d0">13</data>
+</node>
+<node id="database transaction">
+  <data key="d0">7</data>
+</node>
+<node id="neural network">
+  <data key="d0">159</data>
+</node>
+<node id="electricity">
+  <data key="d0">15</data>
+</node>
+<node id="human–computer interaction">
+  <data key="d0">8</data>
+</node>
+<node id="sustainable development">
+  <data key="d0">21</data>
+</node>
+<node id="photovoltaic system">
+  <data key="d0">6</data>
+</node>
+<node id="land use">
+  <data key="d0">5</data>
+</node>
+<node id="sentiment analysis">
+  <data key="d0">50</data>
+</node>
+<node id="set (abstract data type)">
+  <data key="d0">8</data>
+</node>
+<node id="deep learning">
+  <data key="d0">122</data>
+</node>
+<node id="automation">
+  <data key="d0">7</data>
+</node>
+<node id="data science">
+  <data key="d0">71</data>
+</node>
+<node id="key (lock)">
+  <data key="d0">10</data>
+</node>
+<node id="metaverse">
+  <data key="d0">9</data>
+</node>
+<node id="popularity">
+  <data key="d0">11</data>
+</node>
+<node id="support vector">
+  <data key="d0">34</data>
+</node>
+<node id="artificial neural network">
+  <data key="d0">65</data>
+</node>
+<node id="classifier (uml)">
+  <data key="d0">6</data>
+</node>
+<node id="support vector machine">
+  <data key="d0">18</data>
+</node>
+<node id="convolutional neural">
+  <data key="d0">26</data>
+</node>
+<node id="computer science">
+  <data key="d0">603</data>
+</node>
+<node id="demand forecasting">
+  <data key="d0">21</data>
+</node>
+<node id="transformative learning">
+  <data key="d0">6</data>
+</node>
+<node id="scopus">
+  <data key="d0">10</data>
+</node>
+<node id="marketing">
+  <data key="d0">19</data>
+</node>
+<node id="flexibility (engineering)">
+  <data key="d0">10</data>
+</node>
+<node id="tourism">
+  <data key="d0">24</data>
+</node>
+<edge source="house price" target="computer science">
+  <data key="d1">5</data>
+</edge>
+<edge source="house price" target="price prediction">
+  <data key="d1">4</data>
+</edge>
+<edge source="house price" target="real estate">
+  <data key="d1">4</data>
+</edge>
+<edge source="house price" target="regression">
+  <data key="d1">4</data>
+</edge>
+<edge source="house price" target="forecasting">
+  <data key="d1">3</data>
+</edge>
+<edge source="house price" target="machine learning">
+  <data key="d1">5</data>
+</edge>
+<edge source="standardization" target="computer science">
+  <data key="d1">3</data>
+</edge>
+<edge source="standardization" target="building information modeling">
+  <data key="d1">3</data>
+</edge>
+<edge source="energy consumption" target="computer science">
+  <data key="d1">19</data>
+</edge>
+<edge source="energy consumption" target="consumption (sociology)">
+  <data key="d1">8</data>
+</edge>
+<edge source="energy consumption" target="electricity">
+  <data key="d1">4</data>
+</edge>
+<edge source="energy consumption" target="forecasting">
+  <data key="d1">12</data>
+</edge>
+<edge source="energy consumption" target="machine learning">
+  <data key="d1">7</data>
+</edge>
+<edge source="energy consumption" target="sustainable development">
+  <data key="d1">3</data>
+</edge>
+<edge source="energy consumption" target="environmental economics">
+  <data key="d1">5</data>
+</edge>
+<edge source="energy consumption" target="deep learning">
+  <data key="d1">5</data>
+</edge>
+<edge source="energy consumption" target="lstm">
+  <data key="d1">5</data>
+</edge>
+<edge source="energy consumption" target="neural network">
+  <data key="d1">4</data>
+</edge>
+<edge source="energy consumption" target="power consumption">
+  <data key="d1">3</data>
+</edge>
+<edge source="energy consumption" target="time series">
+  <data key="d1">4</data>
+</edge>
+<edge source="energy consumption" target="mean squared error">
+  <data key="d1">5</data>
+</edge>
+<edge source="energy consumption" target="context (archaeology)">
+  <data key="d1">4</data>
+</edge>
+<edge source="energy consumption" target="energy management">
+  <data key="d1">5</data>
+</edge>
+<edge source="energy consumption" target="energy (signal processing)">
+  <data key="d1">3</data>
+</edge>
+<edge source="energy consumption" target="efficient energy use">
+  <data key="d1">4</data>
+</edge>
+<edge source="energy consumption" target="smart grid">
+  <data key="d1">3</data>
+</edge>
+<edge source="fake news" target="computer science">
+  <data key="d1">3</data>
+</edge>
+<edge source="ensemble learning" target="computer science">
+  <data key="d1">6</data>
+</edge>
+<edge source="ensemble learning" target="machine learning">
+  <data key="d1">7</data>
+</edge>
+<edge source="ensemble learning" target="neural network">
+  <data key="d1">4</data>
+</edge>
+<edge source="ensemble learning" target="random forest">
+  <data key="d1">4</data>
+</edge>
+<edge source="e-commerce" target="computer science">
+  <data key="d1">4</data>
+</edge>
+<edge source="energy (signal processing)" target="efficient energy use">
+  <data key="d1">3</data>
+</edge>
+<edge source="energy (signal processing)" target="machine learning">
+  <data key="d1">7</data>
+</edge>
+<edge source="energy (signal processing)" target="computer science">
+  <data key="d1">7</data>
+</edge>
+<edge source="energy (signal processing)" target="energy management">
+  <data key="d1">3</data>
+</edge>
+<edge source="energy (signal processing)" target="forecasting">
+  <data key="d1">4</data>
+</edge>
+<edge source="merge (version control)" target="computer science">
+  <data key="d1">4</data>
+</edge>
+<edge source="variable (mathematics)" target="computer science">
+  <data key="d1">3</data>
+</edge>
+<edge source="variable (mathematics)" target="machine learning">
+  <data key="d1">4</data>
+</edge>
+<edge source="traffic congestion" target="computer science">
+  <data key="d1">3</data>
+</edge>
+<edge source="interpretability" target="computer science">
+  <data key="d1">8</data>
+</edge>
+<edge source="interpretability" target="artificial intelligence">
+  <data key="d1">3</data>
+</edge>
+<edge source="interpretability" target="machine learning">
+  <data key="d1">5</data>
+</edge>
+<edge source="interpretability" target="neural network">
+  <data key="d1">4</data>
+</edge>
+<edge source="scalability" target="computer science">
+  <data key="d1">9</data>
+</edge>
+<edge source="forecasting" target="arima">
+  <data key="d1">17</data>
+</edge>
+<edge source="forecasting" target="artificial intelligence">
+  <data key="d1">26</data>
+</edge>
+<edge source="forecasting" target="computer science">
+  <data key="d1">97</data>
+</edge>
+<edge source="forecasting" target="econometrics">
+  <data key="d1">17</data>
+</edge>
+<edge source="forecasting" target="lstm">
+  <data key="d1">29</data>
+</edge>
+<edge source="forecasting" target="machine learning">
+  <data key="d1">50</data>
+</edge>
+<edge source="forecasting" target="neural network">
+  <data key="d1">44</data>
+</edge>
+<edge source="forecasting" target="random forest">
+  <data key="d1">11</data>
+</edge>
+<edge source="forecasting" target="regression">
+  <data key="d1">20</data>
+</edge>
+<edge source="forecasting" target="renting">
+  <data key="d1">3</data>
+</edge>
+<edge source="forecasting" target="engineering">
+  <data key="d1">3</data>
+</edge>
+<edge source="forecasting" target="gradient boosting">
+  <data key="d1">3</data>
+</edge>
+<edge source="forecasting" target="location">
+  <data key="d1">8</data>
+</edge>
+<edge source="forecasting" target="price prediction">
+  <data key="d1">8</data>
+</edge>
+<edge source="forecasting" target="real estate">
+  <data key="d1">6</data>
+</edge>
+<edge source="forecasting" target="data science">
+  <data key="d1">5</data>
+</edge>
+<edge source="forecasting" target="demand forecasting">
+  <data key="d1">20</data>
+</edge>
+<edge source="forecasting" target="supply chain">
+  <data key="d1">3</data>
+</edge>
+<edge source="forecasting" target="support vector">
+  <data key="d1">6</data>
+</edge>
+<edge source="forecasting" target="artificial neural network">
+  <data key="d1">21</data>
+</edge>
+<edge source="forecasting" target="clustering">
+  <data key="d1">4</data>
+</edge>
+<edge source="forecasting" target="consumption (sociology)">
+  <data key="d1">8</data>
+</edge>
+<edge source="forecasting" target="electricity">
+  <data key="d1">4</data>
+</edge>
+<edge source="forecasting" target="mean squared error">
+  <data key="d1">15</data>
+</edge>
+<edge source="forecasting" target="product (mathematics)">
+  <data key="d1">3</data>
+</edge>
+<edge source="forecasting" target="time series">
+  <data key="d1">44</data>
+</edge>
+<edge source="forecasting" target="cloud computing">
+  <data key="d1">4</data>
+</edge>
+<edge source="forecasting" target="context (archaeology)">
+  <data key="d1">6</data>
+</edge>
+<edge source="forecasting" target="deep learning">
+  <data key="d1">38</data>
+</edge>
+<edge source="forecasting" target="convolutional neural network">
+  <data key="d1">3</data>
+</edge>
+<edge source="forecasting" target="tourism">
+  <data key="d1">3</data>
+</edge>
+<edge source="forecasting" target="transformer">
+  <data key="d1">4</data>
+</edge>
+<edge source="forecasting" target="gis">
+  <data key="d1">7</data>
+</edge>
+<edge source="forecasting" target="sentiment analysis">
+  <data key="d1">4</data>
+</edge>
+<edge source="forecasting" target="multivariate statistics">
+  <data key="d1">5</data>
+</edge>
+<edge source="forecasting" target="series (stratigraphy)">
+  <data key="d1">6</data>
+</edge>
+<edge source="forecasting" target="big data">
+  <data key="d1">5</data>
+</edge>
+<edge source="forecasting" target="data mining">
+  <data key="d1">3</data>
+</edge>
+<edge source="forecasting" target="index (typography)">
+  <data key="d1">5</data>
+</edge>
+<edge source="forecasting" target="autoregressive integrated moving average">
+  <data key="d1">15</data>
+</edge>
+<edge source="forecasting" target="autoregressive model">
+  <data key="d1">7</data>
+</edge>
+<edge source="forecasting" target="mean absolute percentage error">
+  <data key="d1">6</data>
+</edge>
+<edge source="forecasting" target="stock (firearms)">
+  <data key="d1">5</data>
+</edge>
+<edge source="forecasting" target="stock market">
+  <data key="d1">5</data>
+</edge>
+<edge source="forecasting" target="feature selection">
+  <data key="d1">5</data>
+</edge>
+<edge source="forecasting" target="recurrent neural">
+  <data key="d1">9</data>
+</edge>
+<edge source="forecasting" target="term (time)">
+  <data key="d1">7</data>
+</edge>
+<edge source="forecasting" target="benchmark (surveying)">
+  <data key="d1">4</data>
+</edge>
+<edge source="forecasting" target="cluster analysis">
+  <data key="d1">3</data>
+</edge>
+<edge source="forecasting" target="process (computing)">
+  <data key="d1">3</data>
+</edge>
+<edge source="forecasting" target="smart grid">
+  <data key="d1">5</data>
+</edge>
+<edge source="forecasting" target="photovoltaic system">
+  <data key="d1">3</data>
+</edge>
+<edge source="forecasting" target="renewable energy">
+  <data key="d1">3</data>
+</edge>
+<edge source="forecasting" target="convolutional neural">
+  <data key="d1">4</data>
+</edge>
+<edge source="forecasting" target="inflation (cosmology)">
+  <data key="d1">3</data>
+</edge>
+<edge source="forecasting" target="recurrent neural network">
+  <data key="d1">5</data>
+</edge>
+<edge source="forecasting" target="field (mathematics)">
+  <data key="d1">3</data>
+</edge>
+<edge source="forecasting" target="exponential smoothing">
+  <data key="d1">6</data>
+</edge>
+<edge source="forecasting" target="environmental science">
+  <data key="d1">3</data>
+</edge>
+<edge source="forecasting" target="geography">
+  <data key="d1">4</data>
+</edge>
+<edge source="internet of things" target="computer science">
+  <data key="d1">7</data>
+</edge>
+<edge source="economic rent" target="machine learning">
+  <data key="d1">3</data>
+</edge>
+<edge source="economic rent" target="real estate">
+  <data key="d1">3</data>
+</edge>
+<edge source="energy management" target="computer science">
+  <data key="d1">5</data>
+</edge>
+<edge source="energy management" target="machine learning">
+  <data key="d1">3</data>
+</edge>
+<edge source="smart city" target="computer science">
+  <data key="d1">12</data>
+</edge>
+<edge source="smart city" target="data science">
+  <data key="d1">5</data>
+</edge>
+<edge source="smart city" target="big data">
+  <data key="d1">6</data>
+</edge>
+<edge source="smart city" target="sustainability">
+  <data key="d1">4</data>
+</edge>
+<edge source="scale (ratio)" target="computer science">
+  <data key="d1">4</data>
+</edge>
+<edge source="gradient boosting" target="machine learning">
+  <data key="d1">26</data>
+</edge>
+<edge source="gradient boosting" target="random forest">
+  <data key="d1">17</data>
+</edge>
+<edge source="gradient boosting" target="renting">
+  <data key="d1">4</data>
+</edge>
+<edge source="gradient boosting" target="computer science">
+  <data key="d1">24</data>
+</edge>
+<edge source="gradient boosting" target="neural network">
+  <data key="d1">11</data>
+</edge>
+<edge source="gradient boosting" target="xgboost">
+  <data key="d1">13</data>
+</edge>
+<edge source="gradient boosting" target="econometrics">
+  <data key="d1">3</data>
+</edge>
+<edge source="gradient boosting" target="real estate">
+  <data key="d1">7</data>
+</edge>
+<edge source="gradient boosting" target="regression">
+  <data key="d1">18</data>
+</edge>
+<edge source="gradient boosting" target="boosting (machine learning)">
+  <data key="d1">6</data>
+</edge>
+<edge source="gradient boosting" target="mean squared error">
+  <data key="d1">3</data>
+</edge>
+<edge source="gradient boosting" target="price prediction">
+  <data key="d1">4</data>
+</edge>
+<edge source="gradient boosting" target="location">
+  <data key="d1">3</data>
+</edge>
+<edge source="gradient boosting" target="artificial intelligence">
+  <data key="d1">9</data>
+</edge>
+<edge source="gradient boosting" target="shap">
+  <data key="d1">3</data>
+</edge>
+<edge source="gradient boosting" target="artificial neural network">
+  <data key="d1">5</data>
+</edge>
+<edge source="gradient boosting" target="convolutional neural">
+  <data key="d1">3</data>
+</edge>
+<edge source="gradient boosting" target="deep learning">
+  <data key="d1">5</data>
+</edge>
+<edge source="gradient boosting" target="support vector">
+  <data key="d1">5</data>
+</edge>
+<edge source="latent dirichlet allocation" target="computer science">
+  <data key="d1">5</data>
+</edge>
+<edge source="latent dirichlet allocation" target="location">
+  <data key="d1">7</data>
+</edge>
+<edge source="latent dirichlet allocation" target="sentiment analysis">
+  <data key="d1">3</data>
+</edge>
+<edge source="latent dirichlet allocation" target="social media">
+  <data key="d1">3</data>
+</edge>
+<edge source="computer security" target="blockchain">
+  <data key="d1">4</data>
+</edge>
+<edge source="computer security" target="computer science">
+  <data key="d1">11</data>
+</edge>
+<edge source="computer security" target="internet privacy">
+  <data key="d1">4</data>
+</edge>
+<edge source="regression" target="econometrics">
+  <data key="d1">27</data>
+</edge>
+<edge source="regression" target="machine learning">
+  <data key="d1">81</data>
+</edge>
+<edge source="regression" target="price prediction">
+  <data key="d1">27</data>
+</edge>
+<edge source="regression" target="random forest">
+  <data key="d1">44</data>
+</edge>
+<edge source="regression" target="regression analysis">
+  <data key="d1">17</data>
+</edge>
+<edge source="regression" target="renting">
+  <data key="d1">12</data>
+</edge>
+<edge source="regression" target="computer science">
+  <data key="d1">76</data>
+</edge>
+<edge source="regression" target="real estate">
+  <data key="d1">31</data>
+</edge>
+<edge source="regression" target="boosting (machine learning)">
+  <data key="d1">3</data>
+</edge>
+<edge source="regression" target="mean squared error">
+  <data key="d1">6</data>
+</edge>
+<edge source="regression" target="statistics">
+  <data key="d1">7</data>
+</edge>
+<edge source="regression" target="shap">
+  <data key="d1">3</data>
+</edge>
+<edge source="regression" target="context (archaeology)">
+  <data key="d1">6</data>
+</edge>
+<edge source="regression" target="neural network">
+  <data key="d1">28</data>
+</edge>
+<edge source="regression" target="artificial intelligence">
+  <data key="d1">32</data>
+</edge>
+<edge source="regression" target="rental market">
+  <data key="d1">3</data>
+</edge>
+<edge source="regression" target="xgboost">
+  <data key="d1">13</data>
+</edge>
+<edge source="regression" target="lstm">
+  <data key="d1">7</data>
+</edge>
+<edge source="regression" target="location">
+  <data key="d1">13</data>
+</edge>
+<edge source="regression" target="gis">
+  <data key="d1">9</data>
+</edge>
+<edge source="regression" target="property valuation">
+  <data key="d1">3</data>
+</edge>
+<edge source="regression" target="decision tree">
+  <data key="d1">4</data>
+</edge>
+<edge source="regression" target="engineering">
+  <data key="d1">3</data>
+</edge>
+<edge source="regression" target="artificial neural network">
+  <data key="d1">5</data>
+</edge>
+<edge source="regression" target="support vector">
+  <data key="d1">17</data>
+</edge>
+<edge source="regression" target="support vector machine">
+  <data key="d1">5</data>
+</edge>
+<edge source="regression" target="big data">
+  <data key="d1">3</data>
+</edge>
+<edge source="regression" target="valuation (finance)">
+  <data key="d1">9</data>
+</edge>
+<edge source="regression" target="mathematics">
+  <data key="d1">3</data>
+</edge>
+<edge source="regression" target="ordinary least squares">
+  <data key="d1">7</data>
+</edge>
+<edge source="regression" target="geospatial analysis">
+  <data key="d1">4</data>
+</edge>
+<edge source="regression" target="time series">
+  <data key="d1">9</data>
+</edge>
+<edge source="regression" target="deep learning">
+  <data key="d1">13</data>
+</edge>
+<edge source="regression" target="hedonic pricing">
+  <data key="d1">4</data>
+</edge>
+<edge source="regression" target="linear regression">
+  <data key="d1">6</data>
+</edge>
+<edge source="regression" target="property (philosophy)">
+  <data key="d1">3</data>
+</edge>
+<edge source="regression" target="classification">
+  <data key="d1">7</data>
+</edge>
+<edge source="regression" target="geography">
+  <data key="d1">5</data>
+</edge>
+<edge source="regression" target="perception">
+  <data key="d1">5</data>
+</edge>
+<edge source="regression" target="accommodation">
+  <data key="d1">5</data>
+</edge>
+<edge source="regression" target="order (exchange)">
+  <data key="d1">3</data>
+</edge>
+<edge source="regression" target="quality (philosophy)">
+  <data key="d1">3</data>
+</edge>
+<edge source="regression" target="convolutional neural">
+  <data key="d1">6</data>
+</edge>
+<edge source="regression" target="sentiment analysis">
+  <data key="d1">6</data>
+</edge>
+<edge source="regression" target="china">
+  <data key="d1">3</data>
+</edge>
+<edge source="regression" target="lasso (programming language)">
+  <data key="d1">3</data>
+</edge>
+<edge source="regression" target="convolutional neural network">
+  <data key="d1">3</data>
+</edge>
+<edge source="reputation" target="computer science">
+  <data key="d1">4</data>
+</edge>
+<edge source="transport engineering" target="computer science">
+  <data key="d1">6</data>
+</edge>
+<edge source="transport engineering" target="location">
+  <data key="d1">3</data>
+</edge>
+<edge source="socioeconomic status" target="pandemic">
+  <data key="d1">3</data>
+</edge>
+<edge source="text mining" target="big data">
+  <data key="d1">3</data>
+</edge>
+<edge source="text mining" target="computer science">
+  <data key="d1">7</data>
+</edge>
+<edge source="text mining" target="data science">
+  <data key="d1">3</data>
+</edge>
+<edge source="cluster analysis" target="clustering">
+  <data key="d1">4</data>
+</edge>
+<edge source="cluster analysis" target="computer science">
+  <data key="d1">5</data>
+</edge>
+<edge source="cluster analysis" target="neural network">
+  <data key="d1">3</data>
+</edge>
+<edge source="recurrent neural network" target="artificial intelligence">
+  <data key="d1">4</data>
+</edge>
+<edge source="recurrent neural network" target="computer science">
+  <data key="d1">6</data>
+</edge>
+<edge source="recurrent neural network" target="lstm">
+  <data key="d1">3</data>
+</edge>
+<edge source="recurrent neural network" target="machine learning">
+  <data key="d1">3</data>
+</edge>
+<edge source="recurrent neural network" target="neural network">
+  <data key="d1">6</data>
+</edge>
+<edge source="recurrent neural network" target="recurrent neural">
+  <data key="d1">5</data>
+</edge>
+<edge source="recurrent neural network" target="deep learning">
+  <data key="d1">3</data>
+</edge>
+<edge source="real estate" target="computer science">
+  <data key="d1">53</data>
+</edge>
+<edge source="real estate" target="econometrics">
+  <data key="d1">20</data>
+</edge>
+<edge source="real estate" target="machine learning">
+  <data key="d1">47</data>
+</edge>
+<edge source="real estate" target="random forest">
+  <data key="d1">18</data>
+</edge>
+<edge source="real estate" target="gis">
+  <data key="d1">12</data>
+</edge>
+<edge source="real estate" target="price prediction">
+  <data key="d1">25</data>
+</edge>
+<edge source="real estate" target="recommendation system">
+  <data key="d1">5</data>
+</edge>
+<edge source="real estate" target="renting">
+  <data key="d1">8</data>
+</edge>
+<edge source="real estate" target="artificial intelligence">
+  <data key="d1">17</data>
+</edge>
+<edge source="real estate" target="data mining">
+  <data key="d1">3</data>
+</edge>
+<edge source="real estate" target="property valuation">
+  <data key="d1">7</data>
+</edge>
+<edge source="real estate" target="china">
+  <data key="d1">3</data>
+</edge>
+<edge source="real estate" target="regression analysis">
+  <data key="d1">5</data>
+</edge>
+<edge source="real estate" target="artificial neural network">
+  <data key="d1">10</data>
+</edge>
+<edge source="real estate" target="neural network">
+  <data key="d1">25</data>
+</edge>
+<edge source="real estate" target="support vector">
+  <data key="d1">5</data>
+</edge>
+<edge source="real estate" target="support vector machine">
+  <data key="d1">3</data>
+</edge>
+<edge source="real estate" target="shap">
+  <data key="d1">6</data>
+</edge>
+<edge source="real estate" target="hedonic pricing">
+  <data key="d1">8</data>
+</edge>
+<edge source="real estate" target="valuation (finance)">
+  <data key="d1">17</data>
+</edge>
+<edge source="real estate" target="big data">
+  <data key="d1">3</data>
+</edge>
+<edge source="real estate" target="data science">
+  <data key="d1">3</data>
+</edge>
+<edge source="real estate" target="beijing">
+  <data key="d1">4</data>
+</edge>
+<edge source="real estate" target="property (philosophy)">
+  <data key="d1">8</data>
+</edge>
+<edge source="real estate" target="coronavirus disease 2019 (covid-19)">
+  <data key="d1">4</data>
+</edge>
+<edge source="real estate" target="location">
+  <data key="d1">7</data>
+</edge>
+<edge source="real estate" target="investment (military)">
+  <data key="d1">4</data>
+</edge>
+<edge source="real estate" target="deep learning">
+  <data key="d1">7</data>
+</edge>
+<edge source="real estate" target="housing market">
+  <data key="d1">5</data>
+</edge>
+<edge source="real estate" target="xgboost">
+  <data key="d1">5</data>
+</edge>
+<edge source="real estate" target="geography">
+  <data key="d1">4</data>
+</edge>
+<edge source="real estate" target="index (typography)">
+  <data key="d1">3</data>
+</edge>
+<edge source="real estate" target="lstm">
+  <data key="d1">5</data>
+</edge>
+<edge source="real estate" target="time series">
+  <data key="d1">3</data>
+</edge>
+<edge source="real estate" target="convolutional neural">
+  <data key="d1">4</data>
+</edge>
+<edge source="real estate" target="convolutional neural network">
+  <data key="d1">4</data>
+</edge>
+<edge source="real estate" target="recommender system">
+  <data key="d1">3</data>
+</edge>
+<edge source="real estate" target="rental market">
+  <data key="d1">3</data>
+</edge>
+<edge source="property valuation" target="computer science">
+  <data key="d1">6</data>
+</edge>
+<edge source="property valuation" target="machine learning">
+  <data key="d1">3</data>
+</edge>
+<edge source="property valuation" target="gis">
+  <data key="d1">3</data>
+</edge>
+<edge source="property valuation" target="hedonic pricing">
+  <data key="d1">3</data>
+</edge>
+<edge source="property valuation" target="neural network">
+  <data key="d1">4</data>
+</edge>
+<edge source="property valuation" target="valuation (finance)">
+  <data key="d1">6</data>
+</edge>
+<edge source="field (mathematics)" target="computer science">
+  <data key="d1">14</data>
+</edge>
+<edge source="field (mathematics)" target="artificial intelligence">
+  <data key="d1">4</data>
+</edge>
+<edge source="field (mathematics)" target="machine learning">
+  <data key="d1">5</data>
+</edge>
+<edge source="field (mathematics)" target="neural network">
+  <data key="d1">4</data>
+</edge>
+<edge source="stock (firearms)" target="sentiment analysis">
+  <data key="d1">3</data>
+</edge>
+<edge source="stock (firearms)" target="stock market">
+  <data key="d1">8</data>
+</edge>
+<edge source="stock (firearms)" target="lstm">
+  <data key="d1">7</data>
+</edge>
+<edge source="stock (firearms)" target="neural network">
+  <data key="d1">4</data>
+</edge>
+<edge source="stock (firearms)" target="computer science">
+  <data key="d1">7</data>
+</edge>
+<edge source="stock (firearms)" target="machine learning">
+  <data key="d1">4</data>
+</edge>
+<edge source="valuation (finance)" target="artificial neural network">
+  <data key="d1">4</data>
+</edge>
+<edge source="valuation (finance)" target="computer science">
+  <data key="d1">14</data>
+</edge>
+<edge source="valuation (finance)" target="gis">
+  <data key="d1">5</data>
+</edge>
+<edge source="valuation (finance)" target="hedonic pricing">
+  <data key="d1">5</data>
+</edge>
+<edge source="valuation (finance)" target="neural network">
+  <data key="d1">9</data>
+</edge>
+<edge source="valuation (finance)" target="machine learning">
+  <data key="d1">14</data>
+</edge>
+<edge source="valuation (finance)" target="econometrics">
+  <data key="d1">6</data>
+</edge>
+<edge source="valuation (finance)" target="random forest">
+  <data key="d1">3</data>
+</edge>
+<edge source="valuation (finance)" target="property (philosophy)">
+  <data key="d1">3</data>
+</edge>
+<edge source="valuation (finance)" target="artificial intelligence">
+  <data key="d1">4</data>
+</edge>
+<edge source="data collection" target="data science">
+  <data key="d1">5</data>
+</edge>
+<edge source="data collection" target="big data">
+  <data key="d1">3</data>
+</edge>
+<edge source="data collection" target="computer science">
+  <data key="d1">9</data>
+</edge>
+<edge source="data collection" target="process (computing)">
+  <data key="d1">3</data>
+</edge>
+<edge source="multivariate statistics" target="computer science">
+  <data key="d1">6</data>
+</edge>
+<edge source="multivariate statistics" target="artificial intelligence">
+  <data key="d1">3</data>
+</edge>
+<edge source="multivariate statistics" target="deep learning">
+  <data key="d1">3</data>
+</edge>
+<edge source="multivariate statistics" target="time series">
+  <data key="d1">4</data>
+</edge>
+<edge source="pandemic" target="coronavirus disease 2019 (covid-19)">
+  <data key="d1">11</data>
+</edge>
+<edge source="pandemic" target="social media">
+  <data key="d1">5</data>
+</edge>
+<edge source="pandemic" target="computer science">
+  <data key="d1">4</data>
+</edge>
+<edge source="pandemic" target="deep learning">
+  <data key="d1">3</data>
+</edge>
+<edge source="sharing economy" target="renting">
+  <data key="d1">3</data>
+</edge>
+<edge source="product (mathematics)" target="computer science">
+  <data key="d1">7</data>
+</edge>
+<edge source="product (mathematics)" target="neural network">
+  <data key="d1">3</data>
+</edge>
+<edge source="asset (computer security)" target="computer science">
+  <data key="d1">5</data>
+</edge>
+<edge source="data mining" target="artificial intelligence">
+  <data key="d1">4</data>
+</edge>
+<edge source="data mining" target="computer science">
+  <data key="d1">18</data>
+</edge>
+<edge source="data mining" target="machine learning">
+  <data key="d1">4</data>
+</edge>
+<edge source="data mining" target="neural network">
+  <data key="d1">4</data>
+</edge>
+<edge source="data mining" target="time series">
+  <data key="d1">3</data>
+</edge>
+<edge source="data mining" target="lstm">
+  <data key="d1">5</data>
+</edge>
+<edge source="predictive modelling" target="computer science">
+  <data key="d1">3</data>
+</edge>
+<edge source="predictive modelling" target="machine learning">
+  <data key="d1">3</data>
+</edge>
+<edge source="property (philosophy)" target="gis">
+  <data key="d1">3</data>
+</edge>
+<edge source="property (philosophy)" target="machine learning">
+  <data key="d1">4</data>
+</edge>
+<edge source="property (philosophy)" target="computer science">
+  <data key="d1">4</data>
+</edge>
+<edge source="variety (cybernetics)" target="computer science">
+  <data key="d1">5</data>
+</edge>
+<edge source="resilience (materials science)" target="big data">
+  <data key="d1">3</data>
+</edge>
+<edge source="resilience (materials science)" target="computer science">
+  <data key="d1">3</data>
+</edge>
+<edge source="theory of computation" target="computer science">
+  <data key="d1">3</data>
+</edge>
+<edge source="theory of computation" target="machine learning">
+  <data key="d1">3</data>
+</edge>
+<edge source="revenue" target="computer science">
+  <data key="d1">3</data>
+</edge>
+<edge source="health care" target="computer science">
+  <data key="d1">5</data>
+</edge>
+<edge source="random forest" target="econometrics">
+  <data key="d1">12</data>
+</edge>
+<edge source="random forest" target="machine learning">
+  <data key="d1">62</data>
+</edge>
+<edge source="random forest" target="price prediction">
+  <data key="d1">18</data>
+</edge>
+<edge source="random forest" target="regression analysis">
+  <data key="d1">4</data>
+</edge>
+<edge source="random forest" target="renting">
+  <data key="d1">9</data>
+</edge>
+<edge source="random forest" target="support vector machine">
+  <data key="d1">7</data>
+</edge>
+<edge source="random forest" target="computer science">
+  <data key="d1">50</data>
+</edge>
+<edge source="random forest" target="decision tree">
+  <data key="d1">7</data>
+</edge>
+<edge source="random forest" target="neural network">
+  <data key="d1">18</data>
+</edge>
+<edge source="random forest" target="xgboost">
+  <data key="d1">12</data>
+</edge>
+<edge source="random forest" target="boosting (machine learning)">
+  <data key="d1">4</data>
+</edge>
+<edge source="random forest" target="mean squared error">
+  <data key="d1">3</data>
+</edge>
+<edge source="random forest" target="statistics">
+  <data key="d1">4</data>
+</edge>
+<edge source="random forest" target="index (typography)">
+  <data key="d1">3</data>
+</edge>
+<edge source="random forest" target="artificial intelligence">
+  <data key="d1">22</data>
+</edge>
+<edge source="random forest" target="lstm">
+  <data key="d1">4</data>
+</edge>
+<edge source="random forest" target="location">
+  <data key="d1">7</data>
+</edge>
+<edge source="random forest" target="shap">
+  <data key="d1">3</data>
+</edge>
+<edge source="random forest" target="gis">
+  <data key="d1">7</data>
+</edge>
+<edge source="random forest" target="flood myth">
+  <data key="d1">3</data>
+</edge>
+<edge source="random forest" target="classification">
+  <data key="d1">6</data>
+</edge>
+<edge source="random forest" target="support vector">
+  <data key="d1">10</data>
+</edge>
+<edge source="random forest" target="artificial neural network">
+  <data key="d1">6</data>
+</edge>
+<edge source="random forest" target="deep learning">
+  <data key="d1">10</data>
+</edge>
+<edge source="random forest" target="accommodation">
+  <data key="d1">3</data>
+</edge>
+<edge source="random forest" target="geography">
+  <data key="d1">4</data>
+</edge>
+<edge source="random forest" target="sentiment analysis">
+  <data key="d1">3</data>
+</edge>
+<edge source="random forest" target="time series">
+  <data key="d1">3</data>
+</edge>
+<edge source="sustainability" target="computer science">
+  <data key="d1">10</data>
+</edge>
+<edge source="sustainability" target="machine learning">
+  <data key="d1">6</data>
+</edge>
+<edge source="sustainability" target="sustainable development">
+  <data key="d1">5</data>
+</edge>
+<edge source="sustainability" target="shap">
+  <data key="d1">4</data>
+</edge>
+<edge source="sustainability" target="tourism">
+  <data key="d1">3</data>
+</edge>
+<edge source="sustainability" target="context (archaeology)">
+  <data key="d1">3</data>
+</edge>
+<edge source="sustainability" target="environmental economics">
+  <data key="d1">3</data>
+</edge>
+<edge source="sustainability" target="greenhouse gas">
+  <data key="d1">3</data>
+</edge>
+<edge source="sustainability" target="knowledge management">
+  <data key="d1">3</data>
+</edge>
+<edge source="sustainability" target="big data">
+  <data key="d1">3</data>
+</edge>
+<edge source="sustainability" target="agriculture">
+  <data key="d1">3</data>
+</edge>
+<edge source="transformer" target="computer science">
+  <data key="d1">23</data>
+</edge>
+<edge source="transformer" target="deep learning">
+  <data key="d1">7</data>
+</edge>
+<edge source="transformer" target="machine learning">
+  <data key="d1">8</data>
+</edge>
+<edge source="transformer" target="neural network">
+  <data key="d1">5</data>
+</edge>
+<edge source="transformer" target="bert">
+  <data key="d1">6</data>
+</edge>
+<edge source="transformer" target="nlp">
+  <data key="d1">6</data>
+</edge>
+<edge source="transformer" target="artificial intelligence">
+  <data key="d1">12</data>
+</edge>
+<edge source="transformer" target="sentiment analysis">
+  <data key="d1">4</data>
+</edge>
+<edge source="transformer" target="location">
+  <data key="d1">4</data>
+</edge>
+<edge source="transformer" target="artificial neural network">
+  <data key="d1">3</data>
+</edge>
+<edge source="quality (philosophy)" target="machine learning">
+  <data key="d1">4</data>
+</edge>
+<edge source="quality (philosophy)" target="price prediction">
+  <data key="d1">3</data>
+</edge>
+<edge source="quality (philosophy)" target="computer science">
+  <data key="d1">6</data>
+</edge>
+<edge source="usability" target="computer science">
+  <data key="d1">3</data>
+</edge>
+<edge source="climate change" target="computer science">
+  <data key="d1">3</data>
+</edge>
+<edge source="climate change" target="environmental science">
+  <data key="d1">4</data>
+</edge>
+<edge source="climate change" target="greenhouse gas">
+  <data key="d1">3</data>
+</edge>
+<edge source="accommodation" target="computer science">
+  <data key="d1">3</data>
+</edge>
+<edge source="accommodation" target="machine learning">
+  <data key="d1">5</data>
+</edge>
+<edge source="accommodation" target="renting">
+  <data key="d1">4</data>
+</edge>
+<edge source="accommodation" target="gis">
+  <data key="d1">3</data>
+</edge>
+<edge source="meteorology" target="environmental science">
+  <data key="d1">3</data>
+</edge>
+<edge source="political science" target="computer science">
+  <data key="d1">3</data>
+</edge>
+<edge source="political science" target="social media">
+  <data key="d1">3</data>
+</edge>
+<edge source="political science" target="sociology">
+  <data key="d1">3</data>
+</edge>
+<edge source="explanatory power" target="machine learning">
+  <data key="d1">3</data>
+</edge>
+<edge source="hyperparameter" target="computer science">
+  <data key="d1">4</data>
+</edge>
+<edge source="sociology" target="shap">
+  <data key="d1">3</data>
+</edge>
+<edge source="sociology" target="geography">
+  <data key="d1">3</data>
+</edge>
+<edge source="identification (biology)" target="context (archaeology)">
+  <data key="d1">3</data>
+</edge>
+<edge source="identification (biology)" target="computer science">
+  <data key="d1">5</data>
+</edge>
+<edge source="term (time)" target="computer science">
+  <data key="d1">8</data>
+</edge>
+<edge source="term (time)" target="deep learning">
+  <data key="d1">3</data>
+</edge>
+<edge source="term (time)" target="lstm">
+  <data key="d1">6</data>
+</edge>
+<edge source="term (time)" target="machine learning">
+  <data key="d1">3</data>
+</edge>
+<edge source="social media" target="classification">
+  <data key="d1">3</data>
+</edge>
+<edge source="social media" target="computer science">
+  <data key="d1">15</data>
+</edge>
+<edge source="social media" target="deep learning">
+  <data key="d1">3</data>
+</edge>
+<edge source="social media" target="gis">
+  <data key="d1">4</data>
+</edge>
+<edge source="social media" target="sentiment analysis">
+  <data key="d1">13</data>
+</edge>
+<edge source="social media" target="data science">
+  <data key="d1">5</data>
+</edge>
+<edge source="social media" target="coronavirus disease 2019 (covid-19)">
+  <data key="d1">6</data>
+</edge>
+<edge source="social media" target="bert">
+  <data key="d1">4</data>
+</edge>
+<edge source="social media" target="machine learning">
+  <data key="d1">5</data>
+</edge>
+<edge source="social media" target="location">
+  <data key="d1">3</data>
+</edge>
+<edge source="social media" target="nlp">
+  <data key="d1">3</data>
+</edge>
+<edge source="social media" target="perception">
+  <data key="d1">3</data>
+</edge>
+<edge source="social media" target="big data">
+  <data key="d1">3</data>
+</edge>
+<edge source="social media" target="shap">
+  <data key="d1">4</data>
+</edge>
+<edge source="robustness (evolution)" target="computer science">
+  <data key="d1">6</data>
+</edge>
+<edge source="robustness (evolution)" target="machine learning">
+  <data key="d1">3</data>
+</edge>
+<edge source="robustness (evolution)" target="neural network">
+  <data key="d1">3</data>
+</edge>
+<edge source="value (mathematics)" target="computer science">
+  <data key="d1">4</data>
+</edge>
+<edge source="value (mathematics)" target="machine learning">
+  <data key="d1">3</data>
+</edge>
+<edge source="value (mathematics)" target="neural network">
+  <data key="d1">3</data>
+</edge>
+<edge source="environmental planning" target="gis">
+  <data key="d1">3</data>
+</edge>
+<edge source="recommendation system" target="computer science">
+  <data key="d1">12</data>
+</edge>
+<edge source="recommendation system" target="machine learning">
+  <data key="d1">6</data>
+</edge>
+<edge source="recommendation system" target="recommender system">
+  <data key="d1">4</data>
+</edge>
+<edge source="supply chain" target="machine learning">
+  <data key="d1">4</data>
+</edge>
+<edge source="supply chain" target="supply chain management">
+  <data key="d1">6</data>
+</edge>
+<edge source="supply chain" target="blockchain">
+  <data key="d1">3</data>
+</edge>
+<edge source="supply chain" target="computer science">
+  <data key="d1">7</data>
+</edge>
+<edge source="geography" target="china">
+  <data key="d1">7</data>
+</edge>
+<edge source="geography" target="classification">
+  <data key="d1">3</data>
+</edge>
+<edge source="geography" target="mathematics">
+  <data key="d1">3</data>
+</edge>
+<edge source="geography" target="location">
+  <data key="d1">6</data>
+</edge>
+<edge source="geography" target="machine learning">
+  <data key="d1">5</data>
+</edge>
+<edge source="geography" target="neighbourhood">
+  <data key="d1">3</data>
+</edge>
+<edge source="geography" target="gis">
+  <data key="d1">6</data>
+</edge>
+<edge source="geography" target="population">
+  <data key="d1">3</data>
+</edge>
+<edge source="geography" target="regional science">
+  <data key="d1">3</data>
+</edge>
+<edge source="geography" target="environmental science">
+  <data key="d1">3</data>
+</edge>
+<edge source="geography" target="shap">
+  <data key="d1">3</data>
+</edge>
+<edge source="geography" target="neural network">
+  <data key="d1">3</data>
+</edge>
+<edge source="engineering" target="artificial intelligence">
+  <data key="d1">4</data>
+</edge>
+<edge source="engineering" target="computer science">
+  <data key="d1">12</data>
+</edge>
+<edge source="engineering" target="location">
+  <data key="d1">4</data>
+</edge>
+<edge source="engineering" target="machine learning">
+  <data key="d1">4</data>
+</edge>
+<edge source="engineering" target="data science">
+  <data key="d1">3</data>
+</edge>
+<edge source="urbanization" target="machine learning">
+  <data key="d1">4</data>
+</edge>
+<edge source="urbanization" target="context (archaeology)">
+  <data key="d1">3</data>
+</edge>
+<edge source="urbanization" target="neural network">
+  <data key="d1">4</data>
+</edge>
+<edge source="apartment" target="machine learning">
+  <data key="d1">3</data>
+</edge>
+<edge source="similarity (geometry)" target="computer science">
+  <data key="d1">4</data>
+</edge>
+<edge source="cryptocurrency" target="computer science">
+  <data key="d1">4</data>
+</edge>
+<edge source="cryptocurrency" target="deep learning">
+  <data key="d1">3</data>
+</edge>
+<edge source="management science" target="computer science">
+  <data key="d1">6</data>
+</edge>
+<edge source="management science" target="data science">
+  <data key="d1">3</data>
+</edge>
+<edge source="scope (computer science)" target="computer science">
+  <data key="d1">5</data>
+</edge>
+<edge source="computer vision" target="computer science">
+  <data key="d1">9</data>
+</edge>
+<edge source="computer vision" target="data science">
+  <data key="d1">3</data>
+</edge>
+<edge source="computer vision" target="machine learning">
+  <data key="d1">9</data>
+</edge>
+<edge source="computer vision" target="deep learning">
+  <data key="d1">3</data>
+</edge>
+<edge source="computer vision" target="artificial intelligence">
+  <data key="d1">3</data>
+</edge>
+<edge source="investment (military)" target="computer science">
+  <data key="d1">3</data>
+</edge>
+<edge source="investment (military)" target="machine learning">
+  <data key="d1">4</data>
+</edge>
+<edge source="china" target="location">
+  <data key="d1">3</data>
+</edge>
+<edge source="china" target="sentiment analysis">
+  <data key="d1">4</data>
+</edge>
+<edge source="china" target="price prediction">
+  <data key="d1">3</data>
+</edge>
+<edge source="task (project management)" target="classification">
+  <data key="d1">3</data>
+</edge>
+<edge source="task (project management)" target="sentiment analysis">
+  <data key="d1">3</data>
+</edge>
+<edge source="task (project management)" target="artificial intelligence">
+  <data key="d1">3</data>
+</edge>
+<edge source="task (project management)" target="computer science">
+  <data key="d1">8</data>
+</edge>
+<edge source="task (project management)" target="neural network">
+  <data key="d1">3</data>
+</edge>
+<edge source="linguistics" target="computer science">
+  <data key="d1">3</data>
+</edge>
+<edge source="perspective (graphical)" target="computer science">
+  <data key="d1">5</data>
+</edge>
+<edge source="perspective (graphical)" target="machine learning">
+  <data key="d1">3</data>
+</edge>
+<edge source="interoperability" target="computer science">
+  <data key="d1">7</data>
+</edge>
+<edge source="mean squared error" target="machine learning">
+  <data key="d1">9</data>
+</edge>
+<edge source="mean squared error" target="statistics">
+  <data key="d1">5</data>
+</edge>
+<edge source="mean squared error" target="location">
+  <data key="d1">4</data>
+</edge>
+<edge source="mean squared error" target="artificial neural network">
+  <data key="d1">10</data>
+</edge>
+<edge source="mean squared error" target="computer science">
+  <data key="d1">18</data>
+</edge>
+<edge source="mean squared error" target="neural network">
+  <data key="d1">14</data>
+</edge>
+<edge source="mean squared error" target="time series">
+  <data key="d1">13</data>
+</edge>
+<edge source="mean squared error" target="deep learning">
+  <data key="d1">10</data>
+</edge>
+<edge source="mean squared error" target="mean absolute percentage error">
+  <data key="d1">9</data>
+</edge>
+<edge source="mean squared error" target="lstm">
+  <data key="d1">13</data>
+</edge>
+<edge source="mean squared error" target="artificial intelligence">
+  <data key="d1">5</data>
+</edge>
+<edge source="mean squared error" target="arima">
+  <data key="d1">4</data>
+</edge>
+<edge source="mean squared error" target="autoregressive integrated moving average">
+  <data key="d1">4</data>
+</edge>
+<edge source="xgboost" target="computer science">
+  <data key="d1">17</data>
+</edge>
+<edge source="xgboost" target="machine learning">
+  <data key="d1">17</data>
+</edge>
+<edge source="xgboost" target="neural network">
+  <data key="d1">8</data>
+</edge>
+<edge source="xgboost" target="artificial intelligence">
+  <data key="d1">7</data>
+</edge>
+<edge source="xgboost" target="econometrics">
+  <data key="d1">3</data>
+</edge>
+<edge source="xgboost" target="price prediction">
+  <data key="d1">6</data>
+</edge>
+<edge source="xgboost" target="deep learning">
+  <data key="d1">4</data>
+</edge>
+<edge source="xgboost" target="support vector">
+  <data key="d1">6</data>
+</edge>
+<edge source="xgboost" target="artificial neural network">
+  <data key="d1">3</data>
+</edge>
+<edge source="rental market" target="computer science">
+  <data key="d1">5</data>
+</edge>
+<edge source="rental market" target="machine learning">
+  <data key="d1">6</data>
+</edge>
+<edge source="rental market" target="housing market">
+  <data key="d1">3</data>
+</edge>
+<edge source="rental market" target="renting">
+  <data key="d1">5</data>
+</edge>
+<edge source="feature (linguistics)" target="artificial intelligence">
+  <data key="d1">3</data>
+</edge>
+<edge source="feature (linguistics)" target="computer science">
+  <data key="d1">6</data>
+</edge>
+<edge source="graph" target="artificial intelligence">
+  <data key="d1">3</data>
+</edge>
+<edge source="graph" target="computer science">
+  <data key="d1">4</data>
+</edge>
+<edge source="graph" target="neural network">
+  <data key="d1">3</data>
+</edge>
+<edge source="process (computing)" target="systematic review">
+  <data key="d1">3</data>
+</edge>
+<edge source="process (computing)" target="computer science">
+  <data key="d1">21</data>
+</edge>
+<edge source="process (computing)" target="data science">
+  <data key="d1">4</data>
+</edge>
+<edge source="process (computing)" target="deep learning">
+  <data key="d1">3</data>
+</edge>
+<edge source="process (computing)" target="machine learning">
+  <data key="d1">5</data>
+</edge>
+<edge source="process (computing)" target="context (archaeology)">
+  <data key="d1">3</data>
+</edge>
+<edge source="anomaly detection" target="computer science">
+  <data key="d1">3</data>
+</edge>
+<edge source="metropolitan area" target="machine learning">
+  <data key="d1">3</data>
+</edge>
+<edge source="telecommunications" target="computer science">
+  <data key="d1">6</data>
+</edge>
+<edge source="context (archaeology)" target="computer science">
+  <data key="d1">27</data>
+</edge>
+<edge source="context (archaeology)" target="machine learning">
+  <data key="d1">15</data>
+</edge>
+<edge source="context (archaeology)" target="neural network">
+  <data key="d1">4</data>
+</edge>
+<edge source="context (archaeology)" target="shap">
+  <data key="d1">3</data>
+</edge>
+<edge source="context (archaeology)" target="data science">
+  <data key="d1">4</data>
+</edge>
+<edge source="context (archaeology)" target="artificial intelligence">
+  <data key="d1">3</data>
+</edge>
+<edge source="context (archaeology)" target="deep learning">
+  <data key="d1">5</data>
+</edge>
+<edge source="context (archaeology)" target="software deployment">
+  <data key="d1">3</data>
+</edge>
+<edge source="context (archaeology)" target="corporate governance">
+  <data key="d1">3</data>
+</edge>
+<edge source="context (archaeology)" target="time series">
+  <data key="d1">3</data>
+</edge>
+<edge source="context (archaeology)" target="knowledge management">
+  <data key="d1">3</data>
+</edge>
+<edge source="service (business)" target="computer science">
+  <data key="d1">3</data>
+</edge>
+<edge source="domain (mathematical analysis)" target="computer science">
+  <data key="d1">3</data>
+</edge>
+<edge source="econometrics" target="machine learning">
+  <data key="d1">26</data>
+</edge>
+<edge source="econometrics" target="price prediction">
+  <data key="d1">11</data>
+</edge>
+<edge source="econometrics" target="regression analysis">
+  <data key="d1">6</data>
+</edge>
+<edge source="econometrics" target="renting">
+  <data key="d1">4</data>
+</edge>
+<edge source="econometrics" target="hedonic pricing">
+  <data key="d1">6</data>
+</edge>
+<edge source="econometrics" target="ordinary least squares">
+  <data key="d1">4</data>
+</edge>
+<edge source="econometrics" target="computer science">
+  <data key="d1">26</data>
+</edge>
+<edge source="econometrics" target="artificial intelligence">
+  <data key="d1">7</data>
+</edge>
+<edge source="econometrics" target="arima">
+  <data key="d1">3</data>
+</edge>
+<edge source="econometrics" target="lstm">
+  <data key="d1">4</data>
+</edge>
+<edge source="econometrics" target="neural network">
+  <data key="d1">20</data>
+</edge>
+<edge source="econometrics" target="gis">
+  <data key="d1">3</data>
+</edge>
+<edge source="econometrics" target="support vector">
+  <data key="d1">3</data>
+</edge>
+<edge source="econometrics" target="artificial neural network">
+  <data key="d1">7</data>
+</edge>
+<edge source="econometrics" target="location">
+  <data key="d1">3</data>
+</edge>
+<edge source="econometrics" target="deep learning">
+  <data key="d1">6</data>
+</edge>
+<edge source="econometrics" target="stock market">
+  <data key="d1">3</data>
+</edge>
+<edge source="econometrics" target="time series">
+  <data key="d1">11</data>
+</edge>
+<edge source="econometrics" target="autoregressive model">
+  <data key="d1">3</data>
+</edge>
+<edge source="econometrics" target="demand forecasting">
+  <data key="d1">4</data>
+</edge>
+<edge source="boosting (machine learning)" target="machine learning">
+  <data key="d1">9</data>
+</edge>
+<edge source="boosting (machine learning)" target="price prediction">
+  <data key="d1">3</data>
+</edge>
+<edge source="boosting (machine learning)" target="computer science">
+  <data key="d1">7</data>
+</edge>
+<edge source="time series" target="computer science">
+  <data key="d1">56</data>
+</edge>
+<edge source="time series" target="data science">
+  <data key="d1">4</data>
+</edge>
+<edge source="time series" target="artificial neural network">
+  <data key="d1">18</data>
+</edge>
+<edge source="time series" target="demand forecasting">
+  <data key="d1">7</data>
+</edge>
+<edge source="time series" target="neural network">
+  <data key="d1">33</data>
+</edge>
+<edge source="time series" target="location">
+  <data key="d1">7</data>
+</edge>
+<edge source="time series" target="machine learning">
+  <data key="d1">20</data>
+</edge>
+<edge source="time series" target="artificial intelligence">
+  <data key="d1">17</data>
+</edge>
+<edge source="time series" target="deep learning">
+  <data key="d1">22</data>
+</edge>
+<edge source="time series" target="series (stratigraphy)">
+  <data key="d1">8</data>
+</edge>
+<edge source="time series" target="mean absolute percentage error">
+  <data key="d1">7</data>
+</edge>
+<edge source="time series" target="price prediction">
+  <data key="d1">5</data>
+</edge>
+<edge source="time series" target="lstm">
+  <data key="d1">25</data>
+</edge>
+<edge source="time series" target="arima">
+  <data key="d1">12</data>
+</edge>
+<edge source="time series" target="autoregressive integrated moving average">
+  <data key="d1">12</data>
+</edge>
+<edge source="time series" target="convolutional neural network">
+  <data key="d1">3</data>
+</edge>
+<edge source="time series" target="autoregressive model">
+  <data key="d1">5</data>
+</edge>
+<edge source="time series" target="recurrent neural">
+  <data key="d1">5</data>
+</edge>
+<edge source="time series" target="consumption (sociology)">
+  <data key="d1">5</data>
+</edge>
+<edge source="benchmark (surveying)" target="neural network">
+  <data key="d1">3</data>
+</edge>
+<edge source="benchmark (surveying)" target="computer science">
+  <data key="d1">8</data>
+</edge>
+<edge source="beijing" target="computer science">
+  <data key="d1">5</data>
+</edge>
+<edge source="beijing" target="machine learning">
+  <data key="d1">3</data>
+</edge>
+<edge source="beijing" target="lstm">
+  <data key="d1">3</data>
+</edge>
+<edge source="architecture" target="computer science">
+  <data key="d1">4</data>
+</edge>
+<edge source="focus (optics)" target="computer science">
+  <data key="d1">3</data>
+</edge>
+<edge source="neighbourhood (mathematics)" target="machine learning">
+  <data key="d1">3</data>
+</edge>
+<edge source="neighbourhood (mathematics)" target="computer science">
+  <data key="d1">3</data>
+</edge>
+<edge source="order (exchange)" target="renting">
+  <data key="d1">3</data>
+</edge>
+<edge source="order (exchange)" target="computer science">
+  <data key="d1">4</data>
+</edge>
+<edge source="order (exchange)" target="machine learning">
+  <data key="d1">3</data>
+</edge>
+<edge source="series (stratigraphy)" target="computer science">
+  <data key="d1">5</data>
+</edge>
+<edge source="series (stratigraphy)" target="machine learning">
+  <data key="d1">3</data>
+</edge>
+<edge source="series (stratigraphy)" target="arima">
+  <data key="d1">4</data>
+</edge>
+<edge source="predictive power" target="index (typography)">
+  <data key="d1">3</data>
+</edge>
+<edge source="shap" target="computer science">
+  <data key="d1">21</data>
+</edge>
+<edge source="shap" target="machine learning">
+  <data key="d1">12</data>
+</edge>
+<edge source="shap" target="artificial intelligence">
+  <data key="d1">5</data>
+</edge>
+<edge source="shap" target="location">
+  <data key="d1">3</data>
+</edge>
+<edge source="shap" target="data science">
+  <data key="d1">3</data>
+</edge>
+<edge source="shap" target="sentiment analysis">
+  <data key="d1">3</data>
+</edge>
+<edge source="shap" target="gis">
+  <data key="d1">4</data>
+</edge>
+<edge source="shap" target="environmental science">
+  <data key="d1">3</data>
+</edge>
+<edge source="business intelligence" target="computer science">
+  <data key="d1">3</data>
+</edge>
+<edge source="architectural engineering" target="computer science">
+  <data key="d1">6</data>
+</edge>
+<edge source="architectural engineering" target="machine learning">
+  <data key="d1">3</data>
+</edge>
+<edge source="food security" target="agriculture">
+  <data key="d1">3</data>
+</edge>
+<edge source="price prediction" target="machine learning">
+  <data key="d1">31</data>
+</edge>
+<edge source="price prediction" target="regression analysis">
+  <data key="d1">6</data>
+</edge>
+<edge source="price prediction" target="renting">
+  <data key="d1">7</data>
+</edge>
+<edge source="price prediction" target="computer science">
+  <data key="d1">37</data>
+</edge>
+<edge source="price prediction" target="neural network">
+  <data key="d1">17</data>
+</edge>
+<edge source="price prediction" target="artificial intelligence">
+  <data key="d1">15</data>
+</edge>
+<edge source="price prediction" target="artificial neural network">
+  <data key="d1">5</data>
+</edge>
+<edge source="price prediction" target="support vector">
+  <data key="d1">4</data>
+</edge>
+<edge source="price prediction" target="support vector machine">
+  <data key="d1">3</data>
+</edge>
+<edge source="price prediction" target="location">
+  <data key="d1">4</data>
+</edge>
+<edge source="price prediction" target="deep learning">
+  <data key="d1">8</data>
+</edge>
+<edge source="price prediction" target="housing market">
+  <data key="d1">4</data>
+</edge>
+<edge source="price prediction" target="lstm">
+  <data key="d1">7</data>
+</edge>
+<edge source="price prediction" target="linear regression">
+  <data key="d1">3</data>
+</edge>
+<edge source="price prediction" target="convolutional neural network">
+  <data key="d1">3</data>
+</edge>
+<edge source="coronavirus disease 2019 (covid-19)" target="sentiment analysis">
+  <data key="d1">5</data>
+</edge>
+<edge source="coronavirus disease 2019 (covid-19)" target="machine learning">
+  <data key="d1">4</data>
+</edge>
+<edge source="coronavirus disease 2019 (covid-19)" target="computer science">
+  <data key="d1">3</data>
+</edge>
+<edge source="feature selection" target="computer science">
+  <data key="d1">11</data>
+</edge>
+<edge source="feature selection" target="machine learning">
+  <data key="d1">5</data>
+</edge>
+<edge source="feature selection" target="artificial intelligence">
+  <data key="d1">3</data>
+</edge>
+<edge source="classification" target="sentiment analysis">
+  <data key="d1">8</data>
+</edge>
+<edge source="classification" target="machine learning">
+  <data key="d1">18</data>
+</edge>
+<edge source="classification" target="support vector">
+  <data key="d1">4</data>
+</edge>
+<edge source="classification" target="support vector machine">
+  <data key="d1">4</data>
+</edge>
+<edge source="classification" target="artificial intelligence">
+  <data key="d1">27</data>
+</edge>
+<edge source="classification" target="computer science">
+  <data key="d1">38</data>
+</edge>
+<edge source="classification" target="location">
+  <data key="d1">4</data>
+</edge>
+<edge source="classification" target="deep learning">
+  <data key="d1">8</data>
+</edge>
+<edge source="classification" target="gis">
+  <data key="d1">3</data>
+</edge>
+<edge source="classification" target="artificial neural network">
+  <data key="d1">3</data>
+</edge>
+<edge source="classification" target="neural network">
+  <data key="d1">10</data>
+</edge>
+<edge source="classification" target="tourism">
+  <data key="d1">3</data>
+</edge>
+<edge source="classification" target="natural language processing">
+  <data key="d1">5</data>
+</edge>
+<edge source="classification" target="nlp">
+  <data key="d1">7</data>
+</edge>
+<edge source="classification" target="bert">
+  <data key="d1">7</data>
+</edge>
+<edge source="classification" target="categorization">
+  <data key="d1">4</data>
+</edge>
+<edge source="classification" target="classifier (uml)">
+  <data key="d1">3</data>
+</edge>
+<edge source="classification" target="convolutional neural">
+  <data key="d1">4</data>
+</edge>
+<edge source="classification" target="convolutional neural network">
+  <data key="d1">3</data>
+</edge>
+<edge source="internet privacy" target="computer science">
+  <data key="d1">6</data>
+</edge>
+<edge source="internet privacy" target="the internet">
+  <data key="d1">3</data>
+</edge>
+<edge source="hedonic pricing" target="machine learning">
+  <data key="d1">4</data>
+</edge>
+<edge source="hedonic pricing" target="computer science">
+  <data key="d1">3</data>
+</edge>
+<edge source="hedonic pricing" target="neural network">
+  <data key="d1">4</data>
+</edge>
+<edge source="hedonic pricing" target="location">
+  <data key="d1">3</data>
+</edge>
+<edge source="encoder" target="computer science">
+  <data key="d1">5</data>
+</edge>
+<edge source="mathematics" target="computer science">
+  <data key="d1">3</data>
+</edge>
+<edge source="reliability (semiconductor)" target="computer science">
+  <data key="d1">3</data>
+</edge>
+<edge source="the internet" target="computer science">
+  <data key="d1">8</data>
+</edge>
+<edge source="the internet" target="world wide web">
+  <data key="d1">3</data>
+</edge>
+<edge source="commodity" target="neural network">
+  <data key="d1">3</data>
+</edge>
+<edge source="outlier" target="computer science">
+  <data key="d1">5</data>
+</edge>
+<edge source="outlier" target="machine learning">
+  <data key="d1">4</data>
+</edge>
+<edge source="clustering" target="computer science">
+  <data key="d1">9</data>
+</edge>
+<edge source="clustering" target="location">
+  <data key="d1">3</data>
+</edge>
+<edge source="clustering" target="artificial intelligence">
+  <data key="d1">3</data>
+</edge>
+<edge source="environmental science" target="machine learning">
+  <data key="d1">4</data>
+</edge>
+<edge source="environmental science" target="neural network">
+  <data key="d1">4</data>
+</edge>
+<edge source="environmental science" target="greenhouse gas">
+  <data key="d1">4</data>
+</edge>
+<edge source="nlp" target="artificial intelligence">
+  <data key="d1">13</data>
+</edge>
+<edge source="nlp" target="computer science">
+  <data key="d1">26</data>
+</edge>
+<edge source="nlp" target="natural language processing">
+  <data key="d1">5</data>
+</edge>
+<edge source="nlp" target="location">
+  <data key="d1">4</data>
+</edge>
+<edge source="nlp" target="machine learning">
+  <data key="d1">13</data>
+</edge>
+<edge source="nlp" target="bert">
+  <data key="d1">7</data>
+</edge>
+<edge source="nlp" target="deep learning">
+  <data key="d1">7</data>
+</edge>
+<edge source="nlp" target="sentiment analysis">
+  <data key="d1">3</data>
+</edge>
+<edge source="nlp" target="data science">
+  <data key="d1">3</data>
+</edge>
+<edge source="nlp" target="neural network">
+  <data key="d1">4</data>
+</edge>
+<edge source="workflow" target="computer science">
+  <data key="d1">4</data>
+</edge>
+<edge source="risk management" target="computer science">
+  <data key="d1">4</data>
+</edge>
+<edge source="arima" target="artificial intelligence">
+  <data key="d1">4</data>
+</edge>
+<edge source="arima" target="computer science">
+  <data key="d1">20</data>
+</edge>
+<edge source="arima" target="lstm">
+  <data key="d1">15</data>
+</edge>
+<edge source="arima" target="machine learning">
+  <data key="d1">4</data>
+</edge>
+<edge source="arima" target="neural network">
+  <data key="d1">10</data>
+</edge>
+<edge source="arima" target="autoregressive integrated moving average">
+  <data key="d1">24</data>
+</edge>
+<edge source="arima" target="location">
+  <data key="d1">4</data>
+</edge>
+<edge source="arima" target="mean absolute percentage error">
+  <data key="d1">5</data>
+</edge>
+<edge source="arima" target="artificial neural network">
+  <data key="d1">5</data>
+</edge>
+<edge source="arima" target="demand forecasting">
+  <data key="d1">3</data>
+</edge>
+<edge source="arima" target="deep learning">
+  <data key="d1">4</data>
+</edge>
+<edge source="arima" target="exponential smoothing">
+  <data key="d1">3</data>
+</edge>
+<edge source="categorization" target="computer science">
+  <data key="d1">4</data>
+</edge>
+<edge source="categorization" target="artificial intelligence">
+  <data key="d1">3</data>
+</edge>
+<edge source="leverage (statistics)" target="computer science">
+  <data key="d1">4</data>
+</edge>
+<edge source="process management" target="computer science">
+  <data key="d1">3</data>
+</edge>
+<edge source="neighbourhood" target="computer science">
+  <data key="d1">4</data>
+</edge>
+<edge source="neighbourhood" target="machine learning">
+  <data key="d1">3</data>
+</edge>
+<edge source="neighbourhood" target="location">
+  <data key="d1">3</data>
+</edge>
+<edge source="remote sensing" target="computer science">
+  <data key="d1">3</data>
+</edge>
+<edge source="blockchain" target="computer science">
+  <data key="d1">17</data>
+</edge>
+<edge source="blockchain" target="machine learning">
+  <data key="d1">3</data>
+</edge>
+<edge source="blockchain" target="cloud computing">
+  <data key="d1">3</data>
+</edge>
+<edge source="blockchain" target="data science">
+  <data key="d1">3</data>
+</edge>
+<edge source="transparency (behavior)" target="computer science">
+  <data key="d1">4</data>
+</edge>
+<edge source="industrial organization" target="marketing">
+  <data key="d1">4</data>
+</edge>
+<edge source="efficient energy use" target="computer science">
+  <data key="d1">3</data>
+</edge>
+<edge source="naive bayes classifier" target="computer science">
+  <data key="d1">3</data>
+</edge>
+<edge source="naive bayes classifier" target="machine learning">
+  <data key="d1">3</data>
+</edge>
+<edge source="regression analysis" target="machine learning">
+  <data key="d1">9</data>
+</edge>
+<edge source="regression analysis" target="computer science">
+  <data key="d1">8</data>
+</edge>
+<edge source="regression analysis" target="statistics">
+  <data key="d1">3</data>
+</edge>
+<edge source="regression analysis" target="location">
+  <data key="d1">3</data>
+</edge>
+<edge source="regression analysis" target="linear regression">
+  <data key="d1">5</data>
+</edge>
+<edge source="regression analysis" target="neural network">
+  <data key="d1">3</data>
+</edge>
+<edge source="mean absolute percentage error" target="computer science">
+  <data key="d1">6</data>
+</edge>
+<edge source="mean absolute percentage error" target="deep learning">
+  <data key="d1">3</data>
+</edge>
+<edge source="mean absolute percentage error" target="neural network">
+  <data key="d1">5</data>
+</edge>
+<edge source="mean absolute percentage error" target="autoregressive integrated moving average">
+  <data key="d1">4</data>
+</edge>
+<edge source="mean absolute percentage error" target="lstm">
+  <data key="d1">7</data>
+</edge>
+<edge source="mean absolute percentage error" target="machine learning">
+  <data key="d1">3</data>
+</edge>
+<edge source="mean absolute percentage error" target="artificial neural network">
+  <data key="d1">3</data>
+</edge>
+<edge source="power consumption" target="computer science">
+  <data key="d1">5</data>
+</edge>
+<edge source="power consumption" target="consumption (sociology)">
+  <data key="d1">3</data>
+</edge>
+<edge source="bert" target="computer science">
+  <data key="d1">18</data>
+</edge>
+<edge source="bert" target="deep learning">
+  <data key="d1">9</data>
+</edge>
+<edge source="bert" target="location">
+  <data key="d1">4</data>
+</edge>
+<edge source="bert" target="sentiment analysis">
+  <data key="d1">9</data>
+</edge>
+<edge source="bert" target="data science">
+  <data key="d1">3</data>
+</edge>
+<edge source="bert" target="machine learning">
+  <data key="d1">3</data>
+</edge>
+<edge source="bert" target="artificial intelligence">
+  <data key="d1">6</data>
+</edge>
+<edge source="bert" target="natural language processing">
+  <data key="d1">4</data>
+</edge>
+<edge source="bert" target="lstm">
+  <data key="d1">3</data>
+</edge>
+<edge source="bert" target="neural network">
+  <data key="d1">4</data>
+</edge>
+<edge source="robot" target="computer science">
+  <data key="d1">4</data>
+</edge>
+<edge source="robot" target="human–computer interaction">
+  <data key="d1">3</data>
+</edge>
+<edge source="consumption (sociology)" target="computer science">
+  <data key="d1">10</data>
+</edge>
+<edge source="consumption (sociology)" target="electricity">
+  <data key="d1">8</data>
+</edge>
+<edge source="consumption (sociology)" target="deep learning">
+  <data key="d1">6</data>
+</edge>
+<edge source="consumption (sociology)" target="lstm">
+  <data key="d1">4</data>
+</edge>
+<edge source="consumption (sociology)" target="environmental economics">
+  <data key="d1">4</data>
+</edge>
+<edge source="natural language processing" target="artificial intelligence">
+  <data key="d1">12</data>
+</edge>
+<edge source="natural language processing" target="computer science">
+  <data key="d1">15</data>
+</edge>
+<edge source="natural language processing" target="sentiment analysis">
+  <data key="d1">4</data>
+</edge>
+<edge source="natural language processing" target="lstm">
+  <data key="d1">3</data>
+</edge>
+<edge source="software deployment" target="computer science">
+  <data key="d1">11</data>
+</edge>
+<edge source="supply chain management" target="machine learning">
+  <data key="d1">3</data>
+</edge>
+<edge source="supply chain management" target="computer science">
+  <data key="d1">3</data>
+</edge>
+<edge source="lasso (programming language)" target="machine learning">
+  <data key="d1">3</data>
+</edge>
+<edge source="lasso (programming language)" target="computer science">
+  <data key="d1">3</data>
+</edge>
+<edge source="analytics" target="big data">
+  <data key="d1">8</data>
+</edge>
+<edge source="analytics" target="computer science">
+  <data key="d1">13</data>
+</edge>
+<edge source="analytics" target="data science">
+  <data key="d1">12</data>
+</edge>
+<edge source="analytics" target="machine learning">
+  <data key="d1">7</data>
+</edge>
+<edge source="location" target="machine learning">
+  <data key="d1">21</data>
+</edge>
+<edge source="location" target="renting">
+  <data key="d1">7</data>
+</edge>
+<edge source="location" target="computer science">
+  <data key="d1">45</data>
+</edge>
+<edge source="location" target="artificial intelligence">
+  <data key="d1">11</data>
+</edge>
+<edge source="location" target="cloud computing">
+  <data key="d1">4</data>
+</edge>
+<edge source="location" target="neural network">
+  <data key="d1">6</data>
+</edge>
+<edge source="location" target="support vector">
+  <data key="d1">3</data>
+</edge>
+<edge source="location" target="data science">
+  <data key="d1">7</data>
+</edge>
+<edge source="location" target="lstm">
+  <data key="d1">4</data>
+</edge>
+<edge source="location" target="gis">
+  <data key="d1">4</data>
+</edge>
+<edge source="location" target="deep learning">
+  <data key="d1">9</data>
+</edge>
+<edge source="location" target="sentiment analysis">
+  <data key="d1">4</data>
+</edge>
+<edge source="location" target="tourism">
+  <data key="d1">4</data>
+</edge>
+<edge source="location" target="big data">
+  <data key="d1">3</data>
+</edge>
+<edge source="location" target="autoregressive integrated moving average">
+  <data key="d1">3</data>
+</edge>
+<edge source="personalization" target="computer science">
+  <data key="d1">6</data>
+</edge>
+<edge source="personalization" target="machine learning">
+  <data key="d1">3</data>
+</edge>
+<edge source="renting" target="machine learning">
+  <data key="d1">20</data>
+</edge>
+<edge source="renting" target="computer science">
+  <data key="d1">14</data>
+</edge>
+<edge source="renting" target="neural network">
+  <data key="d1">4</data>
+</edge>
+<edge source="renting" target="artificial intelligence">
+  <data key="d1">3</data>
+</edge>
+<edge source="gis" target="computer science">
+  <data key="d1">22</data>
+</edge>
+<edge source="gis" target="machine learning">
+  <data key="d1">13</data>
+</edge>
+<edge source="gis" target="neural network">
+  <data key="d1">5</data>
+</edge>
+<edge source="gis" target="big data">
+  <data key="d1">5</data>
+</edge>
+<edge source="gis" target="data science">
+  <data key="d1">5</data>
+</edge>
+<edge source="gis" target="deep learning">
+  <data key="d1">3</data>
+</edge>
+<edge source="gis" target="sentiment analysis">
+  <data key="d1">5</data>
+</edge>
+<edge source="gis" target="artificial intelligence">
+  <data key="d1">5</data>
+</edge>
+<edge source="residual" target="computer science">
+  <data key="d1">4</data>
+</edge>
+<edge source="residual" target="deep learning">
+  <data key="d1">3</data>
+</edge>
+<edge source="government (linguistics)" target="machine learning">
+  <data key="d1">3</data>
+</edge>
+<edge source="government (linguistics)" target="sentiment analysis">
+  <data key="d1">4</data>
+</edge>
+<edge source="government (linguistics)" target="computer science">
+  <data key="d1">3</data>
+</edge>
+<edge source="ordinary least squares" target="machine learning">
+  <data key="d1">3</data>
+</edge>
+<edge source="artificial intelligence" target="computer science">
+  <data key="d1">152</data>
+</edge>
+<edge source="artificial intelligence" target="machine learning">
+  <data key="d1">89</data>
+</edge>
+<edge source="artificial intelligence" target="lstm">
+  <data key="d1">23</data>
+</edge>
+<edge source="artificial intelligence" target="neural network">
+  <data key="d1">56</data>
+</edge>
+<edge source="artificial intelligence" target="artificial neural network">
+  <data key="d1">17</data>
+</edge>
+<edge source="artificial intelligence" target="support vector">
+  <data key="d1">15</data>
+</edge>
+<edge source="artificial intelligence" target="support vector machine">
+  <data key="d1">8</data>
+</edge>
+<edge source="artificial intelligence" target="deep learning">
+  <data key="d1">51</data>
+</edge>
+<edge source="artificial intelligence" target="geospatial analysis">
+  <data key="d1">4</data>
+</edge>
+<edge source="artificial intelligence" target="decision tree">
+  <data key="d1">3</data>
+</edge>
+<edge source="artificial intelligence" target="convolutional neural">
+  <data key="d1">16</data>
+</edge>
+<edge source="artificial intelligence" target="sentiment analysis">
+  <data key="d1">10</data>
+</edge>
+<edge source="artificial intelligence" target="data science">
+  <data key="d1">6</data>
+</edge>
+<edge source="artificial intelligence" target="recurrent neural">
+  <data key="d1">4</data>
+</edge>
+<edge source="artificial intelligence" target="classifier (uml)">
+  <data key="d1">4</data>
+</edge>
+<edge source="artificial intelligence" target="convolutional neural network">
+  <data key="d1">15</data>
+</edge>
+<edge source="artificial intelligence" target="smart grid">
+  <data key="d1">3</data>
+</edge>
+<edge source="artificial intelligence" target="housing market">
+  <data key="d1">3</data>
+</edge>
+<edge source="profitability index" target="computer science">
+  <data key="d1">4</data>
+</edge>
+<edge source="profitability index" target="machine learning">
+  <data key="d1">3</data>
+</edge>
+<edge source="smart grid" target="computer science">
+  <data key="d1">10</data>
+</edge>
+<edge source="smart grid" target="machine learning">
+  <data key="d1">4</data>
+</edge>
+<edge source="smart grid" target="deep learning">
+  <data key="d1">5</data>
+</edge>
+<edge source="smart grid" target="neural network">
+  <data key="d1">3</data>
+</edge>
+<edge source="machine learning" target="support vector machine">
+  <data key="d1">15</data>
+</edge>
+<edge source="machine learning" target="computer science">
+  <data key="d1">210</data>
+</edge>
+<edge source="machine learning" target="decision tree">
+  <data key="d1">7</data>
+</edge>
+<edge source="machine learning" target="neural network">
+  <data key="d1">66</data>
+</edge>
+<edge source="machine learning" target="statistics">
+  <data key="d1">5</data>
+</edge>
+<edge source="machine learning" target="index (typography)">
+  <data key="d1">3</data>
+</edge>
+<edge source="machine learning" target="lstm">
+  <data key="d1">18</data>
+</edge>
+<edge source="machine learning" target="transformative learning">
+  <data key="d1">3</data>
+</edge>
+<edge source="machine learning" target="key (lock)">
+  <data key="d1">3</data>
+</edge>
+<edge source="machine learning" target="big data">
+  <data key="d1">16</data>
+</edge>
+<edge source="machine learning" target="cloud computing">
+  <data key="d1">5</data>
+</edge>
+<edge source="machine learning" target="data science">
+  <data key="d1">19</data>
+</edge>
+<edge source="machine learning" target="artificial neural network">
+  <data key="d1">22</data>
+</edge>
+<edge source="machine learning" target="support vector">
+  <data key="d1">27</data>
+</edge>
+<edge source="machine learning" target="demand forecasting">
+  <data key="d1">7</data>
+</edge>
+<edge source="machine learning" target="deep learning">
+  <data key="d1">44</data>
+</edge>
+<edge source="machine learning" target="popularity">
+  <data key="d1">3</data>
+</edge>
+<edge source="machine learning" target="automation">
+  <data key="d1">4</data>
+</edge>
+<edge source="machine learning" target="convolutional neural">
+  <data key="d1">10</data>
+</edge>
+<edge source="machine learning" target="convolutional neural network">
+  <data key="d1">5</data>
+</edge>
+<edge source="machine learning" target="housing market">
+  <data key="d1">7</data>
+</edge>
+<edge source="machine learning" target="perception">
+  <data key="d1">4</data>
+</edge>
+<edge source="machine learning" target="knowledge management">
+  <data key="d1">4</data>
+</edge>
+<edge source="machine learning" target="geospatial analysis">
+  <data key="d1">3</data>
+</edge>
+<edge source="machine learning" target="sentiment analysis">
+  <data key="d1">10</data>
+</edge>
+<edge source="machine learning" target="recurrent neural">
+  <data key="d1">4</data>
+</edge>
+<edge source="machine learning" target="psychology">
+  <data key="d1">3</data>
+</edge>
+<edge source="machine learning" target="autoregressive integrated moving average">
+  <data key="d1">4</data>
+</edge>
+<edge source="machine learning" target="population">
+  <data key="d1">3</data>
+</edge>
+<edge source="machine learning" target="stock market">
+  <data key="d1">4</data>
+</edge>
+<edge source="exponential smoothing" target="computer science">
+  <data key="d1">4</data>
+</edge>
+<edge source="exponential smoothing" target="autoregressive integrated moving average">
+  <data key="d1">3</data>
+</edge>
+<edge source="autoregressive model" target="autoregressive integrated moving average">
+  <data key="d1">3</data>
+</edge>
+<edge source="autoregressive model" target="computer science">
+  <data key="d1">5</data>
+</edge>
+<edge source="autoregressive model" target="neural network">
+  <data key="d1">4</data>
+</edge>
+<edge source="autoregressive model" target="artificial neural network">
+  <data key="d1">3</data>
+</edge>
+<edge source="decision tree" target="computer science">
+  <data key="d1">6</data>
+</edge>
+<edge source="linear regression" target="computer science">
+  <data key="d1">3</data>
+</edge>
+<edge source="convolutional neural network" target="computer science">
+  <data key="d1">17</data>
+</edge>
+<edge source="convolutional neural network" target="convolutional neural">
+  <data key="d1">13</data>
+</edge>
+<edge source="convolutional neural network" target="neural network">
+  <data key="d1">16</data>
+</edge>
+<edge source="convolutional neural network" target="deep learning">
+  <data key="d1">7</data>
+</edge>
+<edge source="convolutional neural network" target="lstm">
+  <data key="d1">5</data>
+</edge>
+<edge source="recurrent neural" target="computer science">
+  <data key="d1">11</data>
+</edge>
+<edge source="recurrent neural" target="deep learning">
+  <data key="d1">4</data>
+</edge>
+<edge source="recurrent neural" target="lstm">
+  <data key="d1">7</data>
+</edge>
+<edge source="recurrent neural" target="neural network">
+  <data key="d1">14</data>
+</edge>
+<edge source="recurrent neural" target="artificial neural network">
+  <data key="d1">5</data>
+</edge>
+<edge source="stock market" target="sentiment analysis">
+  <data key="d1">6</data>
+</edge>
+<edge source="stock market" target="neural network">
+  <data key="d1">4</data>
+</edge>
+<edge source="stock market" target="deep learning">
+  <data key="d1">3</data>
+</edge>
+<edge source="stock market" target="lstm">
+  <data key="d1">5</data>
+</edge>
+<edge source="stock market" target="computer science">
+  <data key="d1">6</data>
+</edge>
+<edge source="geospatial analysis" target="computer science">
+  <data key="d1">6</data>
+</edge>
+<edge source="geospatial analysis" target="neural network">
+  <data key="d1">3</data>
+</edge>
+<edge source="perception" target="sentiment analysis">
+  <data key="d1">4</data>
+</edge>
+<edge source="perception" target="tourism">
+  <data key="d1">3</data>
+</edge>
+<edge source="perception" target="computer science">
+  <data key="d1">3</data>
+</edge>
+<edge source="generative grammar" target="computer science">
+  <data key="d1">4</data>
+</edge>
+<edge source="environmental economics" target="greenhouse gas">
+  <data key="d1">4</data>
+</edge>
+<edge source="environmental economics" target="renewable energy">
+  <data key="d1">4</data>
+</edge>
+<edge source="flood myth" target="computer science">
+  <data key="d1">4</data>
+</edge>
+<edge source="visitor pattern" target="tourism">
+  <data key="d1">4</data>
+</edge>
+<edge source="population" target="computer science">
+  <data key="d1">5</data>
+</edge>
+<edge source="big data" target="computer science">
+  <data key="d1">25</data>
+</edge>
+<edge source="big data" target="data science">
+  <data key="d1">14</data>
+</edge>
+<edge source="big data" target="deep learning">
+  <data key="d1">7</data>
+</edge>
+<edge source="big data" target="database transaction">
+  <data key="d1">3</data>
+</edge>
+<edge source="user experience" target="computer science">
+  <data key="d1">6</data>
+</edge>
+<edge source="greenhouse gas" target="renewable energy">
+  <data key="d1">4</data>
+</edge>
+<edge source="building information modeling" target="computer science">
+  <data key="d1">5</data>
+</edge>
+<edge source="embedding" target="computer science">
+  <data key="d1">6</data>
+</edge>
+<edge source="risk analysis (engineering)" target="computer science">
+  <data key="d1">3</data>
+</edge>
+<edge source="systematic review" target="computer science">
+  <data key="d1">3</data>
+</edge>
+<edge source="psychology" target="computer science">
+  <data key="d1">4</data>
+</edge>
+<edge source="recommender system" target="computer science">
+  <data key="d1">8</data>
+</edge>
+<edge source="knowledge management" target="computer science">
+  <data key="d1">6</data>
+</edge>
+<edge source="cloud computing" target="computer science">
+  <data key="d1">20</data>
+</edge>
+<edge source="cloud computing" target="data science">
+  <data key="d1">3</data>
+</edge>
+<edge source="cloud computing" target="deep learning">
+  <data key="d1">3</data>
+</edge>
+<edge source="world wide web" target="computer science">
+  <data key="d1">9</data>
+</edge>
+<edge source="virtual reality" target="computer science">
+  <data key="d1">3</data>
+</edge>
+<edge source="housing market" target="computer science">
+  <data key="d1">6</data>
+</edge>
+<edge source="housing market" target="neural network">
+  <data key="d1">4</data>
+</edge>
+<edge source="renewable energy" target="photovoltaic system">
+  <data key="d1">4</data>
+</edge>
+<edge source="renewable energy" target="computer science">
+  <data key="d1">5</data>
+</edge>
+<edge source="lstm" target="computer science">
+  <data key="d1">57</data>
+</edge>
+<edge source="lstm" target="neural network">
+  <data key="d1">32</data>
+</edge>
+<edge source="lstm" target="deep learning">
+  <data key="d1">30</data>
+</edge>
+<edge source="lstm" target="support vector">
+  <data key="d1">3</data>
+</edge>
+<edge source="lstm" target="convolutional neural">
+  <data key="d1">7</data>
+</edge>
+<edge source="lstm" target="sentiment analysis">
+  <data key="d1">4</data>
+</edge>
+<edge source="lstm" target="artificial neural network">
+  <data key="d1">11</data>
+</edge>
+<edge source="lstm" target="autoregressive integrated moving average">
+  <data key="d1">9</data>
+</edge>
+<edge source="lstm" target="demand forecasting">
+  <data key="d1">4</data>
+</edge>
+<edge source="pedestrian" target="computer science">
+  <data key="d1">4</data>
+</edge>
+<edge source="exploit" target="computer science">
+  <data key="d1">3</data>
+</edge>
+<edge source="public transport" target="computer science">
+  <data key="d1">3</data>
+</edge>
+<edge source="autoregressive integrated moving average" target="neural network">
+  <data key="d1">9</data>
+</edge>
+<edge source="autoregressive integrated moving average" target="computer science">
+  <data key="d1">15</data>
+</edge>
+<edge source="autoregressive integrated moving average" target="artificial neural network">
+  <data key="d1">7</data>
+</edge>
+<edge source="autoregressive integrated moving average" target="demand forecasting">
+  <data key="d1">3</data>
+</edge>
+<edge source="autoregressive integrated moving average" target="deep learning">
+  <data key="d1">3</data>
+</edge>
+<edge source="index (typography)" target="computer science">
+  <data key="d1">3</data>
+</edge>
+<edge source="index (typography)" target="neural network">
+  <data key="d1">4</data>
+</edge>
+<edge source="database transaction" target="computer science">
+  <data key="d1">4</data>
+</edge>
+<edge source="neural network" target="computer science">
+  <data key="d1">112</data>
+</edge>
+<edge source="neural network" target="support vector machine">
+  <data key="d1">5</data>
+</edge>
+<edge source="neural network" target="artificial neural network">
+  <data key="d1">61</data>
+</edge>
+<edge source="neural network" target="support vector">
+  <data key="d1">15</data>
+</edge>
+<edge source="neural network" target="demand forecasting">
+  <data key="d1">7</data>
+</edge>
+<edge source="neural network" target="deep learning">
+  <data key="d1">41</data>
+</edge>
+<edge source="neural network" target="convolutional neural">
+  <data key="d1">26</data>
+</edge>
+<edge source="neural network" target="sentiment analysis">
+  <data key="d1">5</data>
+</edge>
+<edge source="neural network" target="photovoltaic system">
+  <data key="d1">3</data>
+</edge>
+<edge source="neural network" target="land use">
+  <data key="d1">3</data>
+</edge>
+<edge source="electricity" target="computer science">
+  <data key="d1">9</data>
+</edge>
+<edge source="human–computer interaction" target="computer science">
+  <data key="d1">8</data>
+</edge>
+<edge source="sustainable development" target="computer science">
+  <data key="d1">5</data>
+</edge>
+<edge source="photovoltaic system" target="artificial neural network">
+  <data key="d1">3</data>
+</edge>
+<edge source="sentiment analysis" target="computer science">
+  <data key="d1">28</data>
+</edge>
+<edge source="sentiment analysis" target="deep learning">
+  <data key="d1">5</data>
+</edge>
+<edge source="sentiment analysis" target="data science">
+  <data key="d1">3</data>
+</edge>
+<edge source="sentiment analysis" target="support vector">
+  <data key="d1">4</data>
+</edge>
+<edge source="sentiment analysis" target="support vector machine">
+  <data key="d1">3</data>
+</edge>
+<edge source="sentiment analysis" target="tourism">
+  <data key="d1">4</data>
+</edge>
+<edge source="sentiment analysis" target="popularity">
+  <data key="d1">3</data>
+</edge>
+<edge source="set (abstract data type)" target="computer science">
+  <data key="d1">6</data>
+</edge>
+<edge source="deep learning" target="computer science">
+  <data key="d1">104</data>
+</edge>
+<edge source="deep learning" target="data science">
+  <data key="d1">11</data>
+</edge>
+<edge source="deep learning" target="support vector">
+  <data key="d1">4</data>
+</edge>
+<edge source="deep learning" target="artificial neural network">
+  <data key="d1">11</data>
+</edge>
+<edge source="deep learning" target="demand forecasting">
+  <data key="d1">4</data>
+</edge>
+<edge source="deep learning" target="convolutional neural">
+  <data key="d1">12</data>
+</edge>
+<edge source="automation" target="computer science">
+  <data key="d1">5</data>
+</edge>
+<edge source="data science" target="computer science">
+  <data key="d1">62</data>
+</edge>
+<edge source="data science" target="metaverse">
+  <data key="d1">5</data>
+</edge>
+<edge source="key (lock)" target="computer science">
+  <data key="d1">8</data>
+</edge>
+<edge source="metaverse" target="computer science">
+  <data key="d1">9</data>
+</edge>
+<edge source="popularity" target="computer science">
+  <data key="d1">8</data>
+</edge>
+<edge source="support vector" target="artificial neural network">
+  <data key="d1">4</data>
+</edge>
+<edge source="support vector" target="support vector machine">
+  <data key="d1">13</data>
+</edge>
+<edge source="support vector" target="computer science">
+  <data key="d1">23</data>
+</edge>
+<edge source="artificial neural network" target="computer science">
+  <data key="d1">46</data>
+</edge>
+<edge source="artificial neural network" target="demand forecasting">
+  <data key="d1">5</data>
+</edge>
+<edge source="classifier (uml)" target="computer science">
+  <data key="d1">6</data>
+</edge>
+<edge source="support vector machine" target="computer science">
+  <data key="d1">11</data>
+</edge>
+<edge source="convolutional neural" target="computer science">
+  <data key="d1">25</data>
+</edge>
+<edge source="computer science" target="demand forecasting">
+  <data key="d1">15</data>
+</edge>
+<edge source="computer science" target="tourism">
+  <data key="d1">7</data>
+</edge>
+<edge source="computer science" target="scopus">
+  <data key="d1">3</data>
+</edge>
+<edge source="computer science" target="flexibility (engineering)">
+  <data key="d1">3</data>
+</edge>
+<edge source="computer science" target="transformative learning">
+  <data key="d1">3</data>
+</edge>
+<edge source="demand forecasting" target="tourism">
+  <data key="d1">3</data>
+</edge>
+</graph></graphml>

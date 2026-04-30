@@ -1,0 +1,227 @@
+keyword,frequency,degree,betweenness,eigenvector,pagerank,community
+computer science,603,0.8711,0.4922,0.5343,0.1678,0
+machine learning,290,0.4978,0.1798,0.4218,0.0756,2
+neural network,159,0.2844,0.0524,0.2853,0.0425,1
+artificial intelligence,163,0.2356,0.0318,0.3156,0.0384,3
+forecasting,140,0.28,0.051,0.225,0.0358,4
+regression,128,0.2222,0.0219,0.2181,0.0315,1
+deep learning,122,0.2133,0.0291,0.2262,0.0278,3
+real estate,104,0.1911,0.0344,0.1443,0.0218,1
+random forest,79,0.1511,0.0186,0.1558,0.0197,1
+lstm,70,0.1511,0.008,0.137,0.018,1
+time series,77,0.1289,0.0077,0.1386,0.0177,1
+artificial neural network,65,0.12,0.0054,0.1271,0.0144,1
+location,72,0.1778,0.0352,0.0894,0.0135,3
+price prediction,54,0.12,0.0064,0.1077,0.0133,1
+data science,71,0.12,0.0248,0.0855,0.0121,3
+econometrics,60,0.12,0.0056,0.0924,0.012,1
+sentiment analysis,50,0.1378,0.02,0.0531,0.0101,3
+classification,55,0.1067,0.0103,0.0786,0.0099,3
+gradient boosting,34,0.0889,0.0049,0.0718,0.0085,1
+support vector,34,0.0844,0.0006,0.075,0.0084,1
+gis,45,0.1022,0.013,0.0501,0.0081,3
+mean squared error,30,0.08,0.0011,0.0549,0.0075,1
+big data,42,0.0756,0.0233,0.0439,0.0072,3
+arima,35,0.0756,0.0036,0.0465,0.0071,1
+context (archaeology),53,0.08,0.0334,0.047,0.0069,2
+energy consumption,34,0.08,0.0118,0.034,0.0068,2
+convolutional neural,26,0.0533,0.0002,0.0635,0.0065,1
+renting,30,0.0711,0.0121,0.0439,0.0065,1
+autoregressive integrated moving average,30,0.0667,0.0053,0.037,0.006,1
+social media,35,0.0756,0.0131,0.0224,0.0057,3
+xgboost,25,0.0578,0.0002,0.0502,0.0057,1
+nlp,35,0.0578,0.0006,0.0475,0.0056,3
+shap,53,0.0756,0.0162,0.0359,0.0055,3
+geography,35,0.0756,0.0185,0.0125,0.0054,5
+valuation (finance),22,0.0578,0.0008,0.0398,0.0053,1
+convolutional neural network,18,0.0578,0.0035,0.0447,0.005,1
+sustainability,44,0.0533,0.0294,0.0142,0.005,4
+bert,26,0.0622,0.0054,0.0317,0.0049,3
+transformer,25,0.0489,0.0002,0.0418,0.0046,3
+demand forecasting,21,0.0533,0.0014,0.0357,0.0045,4
+industrial organization,8,0.0044,0.0,0.0,0.0044,6
+marketing,19,0.0044,0.0,0.0,0.0044,6
+support vector machine,18,0.0489,0.001,0.0347,0.0041,1
+regression analysis,17,0.0489,0.0028,0.0262,0.0039,1
+consumption (sociology),20,0.04,0.0009,0.0171,0.0039,4
+recurrent neural,14,0.0444,0.0,0.0306,0.0037,4
+environmental science,26,0.0356,0.014,0.0062,0.0034,4
+process (computing),31,0.0356,0.0082,0.0257,0.0033,2
+mean absolute percentage error,13,0.0489,0.0043,0.0187,0.0032,1
+tourism,24,0.04,0.0187,0.0091,0.0031,4
+natural language processing,16,0.0311,0.0,0.0222,0.003,3
+pandemic,19,0.0222,0.0104,0.0051,0.0029,3
+stock market,12,0.04,0.0014,0.0156,0.0028,4
+data mining,18,0.0356,0.0032,0.0269,0.0028,1
+cloud computing,22,0.0311,0.0016,0.0254,0.0028,0
+coronavirus disease 2019 (covid-19),22,0.0267,0.0,0.0073,0.0028,3
+analytics,19,0.0178,0.0,0.019,0.0027,3
+blockchain,24,0.0267,0.0093,0.0181,0.0027,0
+stock (firearms),13,0.0311,0.0,0.0151,0.0025,4
+greenhouse gas,16,0.0222,0.0024,0.0002,0.0025,4
+hedonic pricing,10,0.04,0.0145,0.0127,0.0025,1
+index (typography),13,0.0311,0.0355,0.0102,0.0024,1
+smart grid,10,0.0311,0.0027,0.0189,0.0023,2
+engineering,21,0.0311,0.0015,0.0191,0.0023,3
+environmental economics,21,0.0222,0.0007,0.0005,0.0023,4
+property valuation,8,0.0356,0.003,0.013,0.0023,1
+agriculture,14,0.0089,0.0088,0.0001,0.0023,4
+renewable energy,16,0.0222,0.0075,0.0057,0.0023,4
+energy (signal processing),18,0.0267,0.0016,0.013,0.0023,2
+recurrent neural network,7,0.0356,0.0033,0.0166,0.0023,4
+recommendation system,12,0.0178,0.0,0.0164,0.0022,1
+supply chain,14,0.0222,0.0016,0.0104,0.0022,0
+housing market,11,0.0311,0.0013,0.0159,0.0022,1
+smart city,23,0.0178,0.0,0.0121,0.0022,3
+field (mathematics),21,0.0222,0.0,0.0214,0.0021,4
+boosting (machine learning),11,0.0267,0.0002,0.0161,0.0021,1
+computer vision,12,0.0222,0.0019,0.0177,0.002,3
+computer security,14,0.0133,0.0014,0.0101,0.002,0
+electricity,15,0.0178,0.0,0.0101,0.002,4
+autoregressive model,9,0.0311,0.0061,0.0116,0.002,1
+china,20,0.0267,0.0009,0.0033,0.0019,1
+decision tree,8,0.0222,0.0002,0.0153,0.0019,2
+clustering,13,0.0222,0.0015,0.0117,0.0019,4
+rental market,9,0.0267,0.0004,0.0111,0.0019,1
+term (time),10,0.0222,0.0012,0.0145,0.0019,4
+property (philosophy),12,0.0267,0.0047,0.01,0.0018,1
+data collection,18,0.0178,0.0001,0.0092,0.0018,3
+perception,16,0.0267,0.0154,0.0079,0.0018,3
+feature selection,11,0.0178,0.0,0.017,0.0018,4
+series (stratigraphy),8,0.0222,0.0,0.0111,0.0018,4
+house price,8,0.0267,0.0011,0.0124,0.0018,1
+ensemble learning,7,0.0178,0.0,0.0134,0.0017,1
+accommodation,7,0.0267,0.0126,0.0094,0.0017,1
+statistics,11,0.0222,0.0007,0.0078,0.0017,1
+internet privacy,12,0.0133,0.003,0.0055,0.0017,0
+the internet,11,0.0133,0.0002,0.0073,0.0017,0
+food security,5,0.0044,0.0,0.0,0.0017,4
+task (project management),10,0.0222,0.0024,0.0109,0.0016,3
+knowledge management,13,0.0178,0.003,0.0086,0.0016,2
+latent dirichlet allocation,10,0.0178,0.0,0.0059,0.0016,3
+climate change,18,0.0133,0.0102,0.0027,0.0016,4
+human–computer interaction,8,0.0089,0.0,0.0072,0.0016,0
+energy management,9,0.0178,0.0018,0.007,0.0016,2
+multivariate statistics,7,0.0222,0.0009,0.011,0.0016,3
+geospatial analysis,10,0.0222,0.0028,0.0126,0.0016,2
+interpretability,10,0.0178,0.0,0.0143,0.0016,2
+world wide web,10,0.0089,0.0,0.0082,0.0015,0
+sustainable development,21,0.0133,0.0,0.0048,0.0015,4
+recommender system,8,0.0133,0.0,0.0081,0.0015,1
+supply chain management,6,0.0133,0.0028,0.0049,0.0015,0
+cluster analysis,6,0.0178,0.0026,0.0072,0.0015,4
+building information modeling,13,0.0089,0.0,0.0045,0.0015,0
+sociology,16,0.0133,0.0009,0.0003,0.0014,5
+neighbourhood,7,0.0178,0.0026,0.0063,0.0014,5
+software deployment,14,0.0089,0.0,0.0102,0.0014,2
+text mining,14,0.0133,0.0002,0.007,0.0014,3
+exponential smoothing,7,0.0178,0.0047,0.0063,0.0014,1
+linear regression,7,0.0178,0.0068,0.0057,0.0014,1
+quality (philosophy),10,0.0178,0.0009,0.0099,0.0014,1
+political science,20,0.0133,0.006,0.0028,0.0014,5
+photovoltaic system,6,0.0178,0.0024,0.0033,0.0014,4
+metaverse,9,0.0089,0.0,0.0088,0.0014,0
+popularity,11,0.0133,0.0013,0.0096,0.0014,2
+benchmark (surveying),11,0.0133,0.0,0.0102,0.0014,4
+beijing,11,0.0178,0.0037,0.0083,0.0014,1
+population,16,0.0133,0.0,0.0067,0.0013,5
+power consumption,5,0.0133,0.0037,0.0048,0.0013,4
+order (exchange),16,0.0178,0.0061,0.0071,0.0013,1
+product (mathematics),14,0.0133,0.0005,0.0089,0.0013,4
+efficient energy use,9,0.0133,0.006,0.003,0.0013,2
+ordinary least squares,9,0.0133,0.0005,0.0053,0.0013,1
+standardization,5,0.0089,0.0,0.0027,0.0013,0
+classifier (uml),6,0.0133,0.0,0.0079,0.0013,3
+robustness (evolution),6,0.0133,0.0022,0.009,0.0013,2
+key (lock),10,0.0089,0.0,0.0093,0.0012,2
+robot,4,0.0089,0.0088,0.0036,0.0012,0
+mathematics,9,0.0133,0.009,0.0039,0.0012,5
+government (linguistics),17,0.0133,0.0046,0.0052,0.0012,2
+urbanization,12,0.0133,0.0015,0.005,0.0012,2
+investment (military),10,0.0133,0.0,0.0065,0.0012,2
+value (mathematics),13,0.0133,0.0041,0.0072,0.0012,2
+categorization,6,0.0133,0.0048,0.0057,0.0012,3
+scalability,10,0.0044,0.0,0.0081,0.0012,0
+automation,7,0.0089,0.0,0.0074,0.0011,2
+perspective (graphical),14,0.0089,0.0,0.0066,0.0011,2
+interoperability,9,0.0044,0.0,0.0063,0.0011,0
+internet of things,8,0.0044,0.0,0.0063,0.0011,0
+transport engineering,9,0.0089,0.0,0.0059,0.0011,0
+feature (linguistics),6,0.0089,0.0,0.007,0.0011,0
+architectural engineering,7,0.0089,0.0,0.0075,0.0011,2
+graph,4,0.0133,0.005,0.0066,0.0011,0
+personalization,7,0.0089,0.0,0.0075,0.0011,2
+lasso (programming language),5,0.0133,0.0073,0.0059,0.0011,2
+management science,6,0.0089,0.001,0.0058,0.0011,0
+outlier,5,0.0089,0.0,0.0074,0.0011,2
+identification (biology),7,0.0089,0.0052,0.0047,0.0011,2
+variable (mathematics),6,0.0089,0.0,0.0056,0.001,2
+set (abstract data type),8,0.0044,0.0,0.0054,0.001,0
+systematic review,5,0.0089,0.0032,0.0028,0.001,2
+embedding,6,0.0044,0.0,0.0054,0.001,0
+user experience,7,0.0044,0.0,0.0054,0.001,0
+psychology,12,0.0089,0.0,0.0057,0.001,2
+visitor pattern,4,0.0044,0.0,0.0001,0.001,4
+flood myth,7,0.0089,0.0,0.0044,0.001,0
+meteorology,4,0.0044,0.0,0.0,0.001,4
+database transaction,7,0.0089,0.0,0.0038,0.001,3
+transformative learning,6,0.0089,0.0028,0.0048,0.001,2
+telecommunications,7,0.0044,0.0,0.0054,0.001,0
+predictive modelling,5,0.0089,0.0028,0.0048,0.001,2
+neighbourhood (mathematics),5,0.0089,0.0028,0.0048,0.001,2
+profitability index,4,0.0089,0.0,0.0057,0.001,2
+naive bayes classifier,4,0.0089,0.0028,0.0048,0.001,2
+residual,5,0.0089,0.0016,0.0048,0.001,0
+theory of computation,4,0.0089,0.0028,0.0048,0.001,2
+cryptocurrency,6,0.0089,0.0016,0.0048,0.001,0
+resilience (materials science),11,0.0089,0.0063,0.0029,0.001,0
+risk management,6,0.0044,0.0,0.0036,0.0009,0
+encoder,5,0.0044,0.0,0.0045,0.0009,0
+pedestrian,5,0.0044,0.0,0.0036,0.0009,0
+generative grammar,5,0.0044,0.0,0.0036,0.0009,0
+workflow,6,0.0044,0.0,0.0036,0.0009,0
+economic rent,4,0.0089,0.0015,0.0029,0.0009,2
+asset (computer security),8,0.0044,0.0,0.0045,0.0009,0
+hyperparameter,4,0.0044,0.0,0.0036,0.0009,0
+predictive power,5,0.0044,0.0,0.0001,0.0009,1
+variety (cybernetics),10,0.0044,0.0,0.0045,0.0009,0
+architecture,5,0.0044,0.0,0.0036,0.0009,0
+merge (version control),4,0.0044,0.0,0.0036,0.0009,0
+e-commerce,5,0.0044,0.0,0.0036,0.0009,0
+leverage (statistics),9,0.0044,0.0,0.0036,0.0009,0
+similarity (geometry),4,0.0044,0.0,0.0036,0.0009,0
+regional science,6,0.0044,0.0,0.0001,0.0009,5
+transparency (behavior),10,0.0044,0.0,0.0036,0.0009,0
+health care,7,0.0044,0.0,0.0045,0.0009,0
+scale (ratio),10,0.0044,0.0,0.0036,0.0009,0
+scope (computer science),9,0.0044,0.0,0.0045,0.0009,0
+reputation,5,0.0044,0.0,0.0036,0.0009,0
+socioeconomic status,7,0.0044,0.0,0.0,0.0009,3
+revenue,4,0.0044,0.0,0.0027,0.0008,0
+apartment,6,0.0044,0.0,0.0021,0.0008,2
+inflation (cosmology),5,0.0044,0.0,0.0011,0.0008,4
+domain (mathematical analysis),4,0.0044,0.0,0.0027,0.0008,0
+anomaly detection,4,0.0044,0.0,0.0027,0.0008,0
+service (business),7,0.0044,0.0,0.0027,0.0008,0
+scopus,10,0.0044,0.0,0.0027,0.0008,0
+traffic congestion,4,0.0044,0.0,0.0027,0.0008,0
+focus (optics),4,0.0044,0.0,0.0027,0.0008,0
+fake news,5,0.0044,0.0,0.0027,0.0008,0
+flexibility (engineering),10,0.0044,0.0,0.0027,0.0008,0
+metropolitan area,9,0.0044,0.0,0.0021,0.0008,2
+business intelligence,6,0.0044,0.0,0.0027,0.0008,0
+explanatory power,4,0.0044,0.0,0.0021,0.0008,2
+corporate governance,15,0.0044,0.0,0.0002,0.0008,2
+risk analysis (engineering),9,0.0044,0.0,0.0027,0.0008,0
+land use,5,0.0044,0.0,0.0014,0.0008,1
+reliability (semiconductor),5,0.0044,0.0,0.0027,0.0008,0
+commodity,4,0.0044,0.0,0.0014,0.0008,1
+usability,5,0.0044,0.0,0.0027,0.0008,0
+linguistics,5,0.0044,0.0,0.0027,0.0008,0
+sharing economy,13,0.0044,0.0,0.0002,0.0008,1
+remote sensing,5,0.0044,0.0,0.0027,0.0008,0
+public transport,5,0.0044,0.0,0.0027,0.0008,0
+exploit,4,0.0044,0.0,0.0027,0.0008,0
+process management,7,0.0044,0.0,0.0027,0.0008,0
+virtual reality,4,0.0044,0.0,0.0027,0.0008,0
+environmental planning,12,0.0044,0.0,0.0003,0.0008,3
